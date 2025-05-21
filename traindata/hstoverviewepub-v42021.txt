@@ -1,0 +1,2537 @@
+Untitled-1
+Cover
+Contents
+Introduction
+History
+Observatory Design
+Operations
+Science
+Technology Transfer
+Cultural Impact
+Acknowledgments
+Page 1
+<!--
+@font-face {
+font-family: 'Helvetica-Black';
+src : url("../fonts/Helvetica-Black.otf");
+}
+@font-face {
+font-family: 'Helvetica-Bold';
+src : url("../fonts/Helvetica-Bold.otf");
+}
+@font-face {
+font-family: 'Helvetica-Condensed-Black;';
+src : url("../fonts/Helvetica-Condensed-Black.otf");
+}
+@font-face {
+font-family: 'Helvetica-Condensed-BlackObl;';
+src : url("../fonts/Helvetica-Condensed-BlackObl.otf");
+}
+@font-face {
+font-family: 'Helvetica-Condensed-Bold;';
+src : url("../fonts/Helvetica-Condensed-Bold.otf");
+}
+@font-face {
+font-family: 'Helvetica-Condensed-Light;';
+src : url("../fonts/Helvetica-Condensed-Light.otf");
+}
+@font-face {
+font-family: 'Helvetica-Condensed-LightObl;';
+src : url("../fonts/Helvetica-Condensed-LightObl.otf");
+}
+@font-face {
+font-family: 'Helvetica-Condensed-Oblique;';
+src : url("../fonts/Helvetica-Condensed-Oblique.otf");
+}
+@font-face {
+font-family: 'Helvetica-Condensed;';
+src : url("../fonts/Helvetica-Condensed.otf");
+}
+@font-face {
+font-family: 'Helvetica-ExtraCompressed;';
+src : url("../fonts/Helvetica-ExtraCompressed.otf");
+}
+@font-face {
+font-family: 'Helvetica;';
+src : url("../fonts/Helvetica.otf");
+}
+p {margin: 0; padding: 0;}	.ft00{font-size:12px;font-family:Helvetica;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed;color:#ffffff;-moz-transform: matrix(         0,          1,         -1,          0, 0, 0);-webkit-transform: matrix(         0,          1,         -1,          0, 0, 0);-o-transform: matrix(         0,          1,         -1,          0, 0, 0);-ms-transform: matrix(         0,          1,         -1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft02{font-size:90px;font-family:Helvetica-ExtraCompressed;color:#ffffff;}
+.ft03{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:12px;font-family:Helvetica;color:#ffffff;}
+-->
+National Aeronautics and Space Administration
+HUBBLE
+: An Over
+view of the Space T
+elescope
+Hubble
+An Overview of the
+Space Telescope
+www.nasa.gov
+Page 2
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:15px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+This book is a joint project of NASA’s Goddard Space Flight Center and the Space Telescope Science Institute (STScI) under contract NAS5-26555.
+The Space Telescope Science Institute is operated by the Association of Universities for Research in Astronomy, Inc., in cooperation with the
+European Space Agency and the National Aeronautics and Space Administration.
+(Front cover) Launched in 1990, the
+Hubble Space Telescope
+has revolutionized our understanding of the cosmos with its detailed images and spectra taken from high
+above the blurring and filtering effects of Earth’s atmosphere. The photo of
+Hubble
+was taken during the last servicing mission in May 2009. A row of inset images
+represents a small sampling of the objects
+Hubble
+has observed over its lifetime. (Inside cover) This picture of
+Hubble
+was taken by astronauts from the Space Shuttle
+Columbia
+at the conclusion of Servicing Mission 3B in March 2002.
+Page 3
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:90px;font-family:Helvetica-ExtraCompressed;color:#ffffff;}
+.ft01{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+Hubble
+An Overview of the
+Space Telescope
+Page 4
+<!--
+p {margin: 0; padding: 0;}-->
+Page 5
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:16px;line-height:24px;font-family:Helvetica-Condensed;color:#ffffff;}
+-->
+3
+Inside
+Introduction                                                                                    7History                                                                                                                                                  9Observatory Design                                                                       23Operations                                                                                   39Science                                                                                         55Technology Transfer                                                                                                              91Cultural Impact                                                                            101
+Acknowledgments                                                                       109
+Astronauts took this picture of
+Hubble
+in May 2009 at the conclusion of Servicing Mission 4,
+showing the telescope in its final configuration.
+Page 6
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+This colorful
+Hubble
+image shows the heart of the Lagoon Nebula, an enormous stellar nursery about 4,000 light-years from Earth. Near
+the center, a giant young star 200,000 times brighter than our Sun is expelling powerful radiation and hurricane-like stellar winds that are carving ridges, cavities, and streamers in the surrounding clouds of dust and gas.
+Page 7
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:21px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:12px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft03{font-size:12px;font-family:Helvetica-Condensed;color:#ffffff;}
+-->
+“The most important discoveries will provide answers to questions that we do not yet
+know how to ask and will concern objects we have not yet imagined.”
+John Bahcall
+(1934–2005)
+Hubble  pioneer, about the space telescope
+Page 8
+<!--
+p {margin: 0; padding: 0;}-->
+Page 9
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:36px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft05{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft06{font-size:16px;line-height:25px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+7
+Hubble
+’s observations have made new and significant scientific contributions to virtually every area of astronomy. Its detailed
+imagery of the Cat’s Eye Nebula (NGC 6543), for example, revealed more intricate structures than ever imagined. This complex planetary nebula is suspected to surround a binary star that created its multiple gas shells, shockwaves, and stellar jets.
+Introduction
+The history of science has been driven by landmark discoveries made with revolutionary instruments. The field of microbiology, for example, was inaugurated by the discovery of cellular life through the invention of the microscope. The spectroscope revealed to us that light-emitting objects broadcast not just their colors, but information about the atomic processes that produced them. Through this, we learned the chemical makeup of stars. Likewise, particle accelerators exposed the astonishing complexity that exists on the quantum-physics scale.   The telescope holds an honorable position among these civilization-changing inventions. In 1609, the visionary scientist Galileo Galilei turned this newly invented device of his day to view the heavens. His observations showed conclusively that there were astronomical bodies that did not revolve around Earth, thus validating a radical, new model of the solar system and our place in it.
+Four hundred years later, a telescope equipped with digital detectors and placed above the clouds continues to advance the legacy of Galileo’s first influential spyglass. The
+Hubble Space Telescope
+, launched in 1990, orbits well above the optically
+degrading effects of Earth’s atmosphere. Astronomers have used it to gain transformational, new views of many celestial objects—from tiny, nearby asteroids to immense and distant galaxies. In fact,
+Hubble
+observations played a leading role in
+discovering and characterizing the mysterious dark energy that now appears to pervade the cosmos.
+The name
+Hubble
+has become synonymous with fruitful scientific exploration. The mission’s success resonates strongly with
+the public as an archetype of human inquisitiveness and engineering ingenuity. It is a source of national pride and a model for international collaboration. The intellectual stimulus and sheer beauty of the telescope’s findings have engaged the public and permeated its culture.
+Hubble
+’s scientific contributions are integrated yearly into the classroom curricula of millions of students
+and appear in textbooks, museums, and media sites worldwide.
+Hubble
+imagery has also demonstrably influenced art, dance,
+music, cinema, and fashion.
+This book provides an overview of the historic space telescope with sections that briefly describe its history, design, and operation as well as some of its significant discoveries, technological contributions, and impacts on culture.
+Page 10
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft01{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+The Whirlpool Galaxy (M51) is classified as a “grand design” spiral, with well-defined arms that sweep around most of the system. Along the arms are pink star-forming regions where bright blue clusters of new stars ionize the gas surrounding them, causing them to glow. The yellowish core of this galaxy is home to older stars, as is NGC 5195, the small companion galaxy to the right and slightly behind M51. The Whirlpool Galaxy is found near the Big Dipper in the lesser-known constellation Canes Venatici, the Hunting Dogs. It is estimated to be 23 million light-years away.
+Page 11
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+History
+Page 12
+<!--
+p {margin: 0; padding: 0;}-->
+Page 13
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:36px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft05{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+11
+Hubble
+went through the latter stages of its integration in a clean room at the Lockheed Missile and Space Company in California. Launched
+in 1990, the telescope is approximately 44 feet tall.
+History
+In April of 1990,
+Hubble
+first opened its eye on the universe and ushered in a new era of discovery. As successful and
+productive as it is now, NASA and its international partners had to overcome many daunting challenges to make it so. These ranged from converting its exacting requirements into a workable and modular design to developing the capability to upgrade and repair  the observatory in orbit. Tackling these challenges has regularly punctuated the agency’s storied history of human spaceflight with notable and memorable successes.
+Hubble
+is the culmination of a dream as old as the space program itself. Theoretical physicist and astronomer Lyman Spitzer
+first proposed a large space telescope in 1946—more than a decade before the Soviet Union launched its first satellite and 12 years before the United States formed NASA. Spitzer knew that such an observatory would take clearer images across a wider wavelength band than any ground-based telescope, as it would not suffer from the blurring and filtering effects of Earth’s atmosphere. Spitzer proposed that such an observatory would reveal much clearer images than any ground-based telescope.
+A tireless advocate of space astronomy, Spitzer was joined in the 1970s by colleagues John Bahcall, George Field, Nancy Grace Roman, and others to champion the concept within the astronomical community, to the public, and to the Federal Government. In order to defray the cost, Congress required NASA to seek international collaboration on the mission. Thus, in 1976, the European Space Agency (ESA) was enlisted as a partner. ESA agreed to provide one of the science instruments, the telescope’s solar panels, and staff members to support science operations. Congress subsequently authorized the visionary mission in 1977.
+Serious technological and managerial challenges—including funding and scheduling issues—arose during the turbulent years of
+Hubble
+’s design and manufacture. After extensive testing,
+Hubble
+was in the final stages of preparation for launch
+aboard the space shuttle when, in January of 1986, the nation suffered the loss of the Space Shuttle
+Challenger
+and its crew
+following a failure in one of the shuttle’s solid rocket boosters. Nearly three more years would pass before reengineered
+Page 14
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+12
+shuttle flights resumed and astronomers could realize the dream of a working telescope in space. On April 25, 1990, astronauts on the STS-31 mission deployed
+Hubble
+into orbit from the Space Shuttle
+Discovery
+with every expectation that
+stunning new views would result.
+Lyman Spitzer, an early proponent of space-based astronomy, helped usher the concept of a space telescope through Congress. The ultimate result of his efforts, the
+Hubble Space Telescope
+, is visible in the clean room behind him.
+Page 15
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+13
+After initial checkout of its critical systems in the Shuttle
+Discovery
+’s cargo bay,
+Hubble
+was released into space on April 25, 1990, to begin
+its journey of discovery.
+Page 16
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:12px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft06{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft07{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft08{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+14
+Hopes were quickly dashed when
+Hubble
+began
+returning data. Instead of crisp, point-like images of stars, astronomers saw stars surrounded by large, fuzzy halos of light. The problem was spherical aberration; the edges of
+Hubble
+’s large,
+primary mirror were ground too flat by just a fraction of the width of a human hair. Although perfectly smooth, the mirror could not focus light to a single point. It had been ground to the wrong shape because of a flaw introduced into the test equipment used to evaluate the mirror’s curvature prior to launch.
+Although engineers designed
+Hubble
+with many replaceable components, the primary mirror was not one of them. However,
+the ability for astronauts to upgrade the observatory in orbit ultimately led to a solution for this seemingly insurmountable problem. Even before NASA launched
+Hubble
+, engineers were hard at work building an improved, second-generation camera.
+Ground-based image at 0 6-arcsec resolution
+WFPC image (before servicing)
+WFPC2 image (after servicing)
+Workers inspect
+Hubble
+’s primary mirror before installation.
+Despite the promise of remarkable pictures due to its position above Earth’s atmosphere,
+Hubble
+’s operation started dismally. The image at left shows
+a star field taken under ideal conditions from the ground. The center image shows the same view through
+Hubble
+’s initial camera, the Wide Field and
+Planetary Camera (WFPC). While atmospheric blurring is gone and many more stars are visible, the effects of
+Hubble’
+s spherical aberration are also
+seen in the halo surrounding the bright central star. The sharply focused image at right was taken with the Wide Field and Planetary Camera 2 (WFPC2), installed during the first servicing mission with integrated corrective optics.
+Page 17
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed;color:#fff877;}
+.ft02{font-size:12px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+-->
+15
+1993
+SM1:
+•  Wide Field and
+Planetary Camera 2
+•  COSTAR
+•  Gyros
+•  Solar Arrays
+•  Magnetometers
+1997
+SM2:
+•  Fine Guidance
+Sensor (FGS)
+•  Space Telescope Imaging
+Spectograph (STIS)
+•  Near Infrared Camera
+and Multi-Object
+Spectrometer (NICMOS)
+•  Solid State Recorder (SSR)
+•  Reaction Wheel Assembly
+1999
+SM3A:
+•  Gyros
+•  FGS
+•  Spacecraft Computer
+•  S-Band Transmitter
+•  SSR
+2002
+SM3B:
+•  Advanced Camera
+for Surveys (ACS)
+•  Solar Arrays
+•  Power Control Unit
+•  NICMOS Cooling
+System
+2009
+SM4:
+•  Gyros
+•  Wide Field Camera 3
+•  Cosmic Origins Spectrograph
+•  Batteries
+•  FGS
+•  STIS/ACS Repairs
+•  Soft Capture Mechanism
+•  Science Instrument Command
+and Data Handling Unit
+1990
+Launch and deployment
+(Above) Following its launch,
+Hubble
+was repaired, maintained, and upgraded by astronauts five times over a period of 19 years.
+Hubble
+is now
+more scientifically powerful than at any other point in its history. (Below) Pictured are the mission patches for the five
+Hubble
+servicing missions.
+Page 18
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+16
+An error in the shape of
+Hubble’
+s primary mirror prompted the development of a corrective
+device known as COSTAR. Installed in place of an existing instrument during the first
+servicing mission, COSTAR contained a mechanical arm of optics that was deployed into the
+telescope’s light path, correcting its focus.
+Called the Wide Field and Planetary Camera 2 (WFPC2), this
+instrument was meant for installation by astronauts at a future
+date. Optics experts realized they could build corrective optics
+into this camera to counteract the flaw in the primary mirror. Meanwhile,
+Hubble
+scientists and engineers devised a set of nickel- and quarter-sized mirrors to remedy
+the effects of the primary mirror on
+Hubble
+’s other instruments. Labeled the Corrective Optics
+Space Telescope Axial Replacement (COSTAR), this device could be deployed into the light paths of the
+telescope’s other instruments to focus their images properly.
+In December 1993, astronauts installed COSTAR during a series of spacewalks. This ambitious endeavor successfully restored
+Hubble
+’s vision to the designers’ original expectations. On subsequent days during the mission, astronauts also upgraded
+various components of the spacecraft including ESA-provided solar arrays and associated control electronics. During the many years following that historic first servicing mission,
+Hubble
+has amassed a spectacular data treasure trove for the world—
+thousands of clear, deep views of the universe. Astronomers from around the world have used the telescope to answer some of the most pressing astronomical questions of our time, and its discoveries have also spawned a host of follow-up investigations.
+As new technology became available,
+Hubble
+’s innovative, modular design enabled astronauts to upgrade and enhance
+it through four additional servicing missions. In 1997, Servicing Mission 2 vastly improved
+Hubble
+’s  spectroscopic
+capabilities with the insertion of the Space Telescope Imaging Spectrograph (STIS). Using it, astronomers confirmed the existence of supermassive black holes in the centers of galaxies and also showed that black-hole masses are tightly correlated with the masses of the surrounding ancient stellar population. During the 1997 service call, the addition of the Near Infrared Camera and Multi-Object Spectrometer (NICMOS) opened
+Hubble
+’s view of the universe
+to a new spectral regime—those wavelengths slightly longer than visual light. This near-infrared sensitivity has helped astronomers untangle the complex processes in the early universe that led to the formation of galaxies, including our own Milky Way.
+During Servicing Mission 3A in 1999, spacewalking astronauts enhanced many of
+Hubble
+’s subsystems—replacing its
+central computer; adding a new, solid-state data-recording system to replace its aging magnetic tape drives; and swapping
+Page 19
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+17
+out the gyroscopes needed for pointing control. When a premature loss of solid-nitrogen coolant cut short NICMOS’s operational life, engineers devised innovative mechanical refrigeration technology as an alternate way of cooling its detectors to their operating temperature of –320°F (–196°C). On Servicing Mission 3B in 2002, this cooling system was retrofitted to NICMOS, which brought the instrument back to life. During that mission, astronauts also replaced the productive, but aging, ESA-built Faint Object Camera with a new, more powerful camera—the Advanced Camera for Surveys (ACS)—providing a tenfold improvement over WFPC2.
+Servicing Mission 4 (SM4), the final servicing mission to
+Hubble
+in 2009, brought the telescope to the apex of its
+scientific capabilities. Astronauts installed two new instruments: the Cosmic Origins Spectrograph (COS) and the Wide Field Camera 3 (WFC3). COS is the most sensitive ultraviolet spectrograph ever built for
+Hubble
+. It probes the cosmic
+web, the large-scale structure of the universe, whose form is determined by the gravity of dark matter and is traced by the spatial distribution of galaxies and intergalactic gas. WFC3 is sensitive across a wide range of wavelengths (colors)
+Positioned on the remote manipulator system, astronaut Mike Good transports the assortment of tools required to repair the Space Telescope Imaging Spectrograph during Servicing Mission 4. Included among them is the ingenious fastener capture plate (blue rectangular device floating above him) that would be used to trap more than 100 non-captive screws during removal of the instrument’s electronics cover.
+Page 20
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+Space Shuttle
+Atlantis
+and its seven-member STS-125 crew launched on time at 2:01 p.m. (EDT) on May 11, 2009, from pad 39A at NASA’s
+Kennedy Space Center. The STS-125 mission was the final servicing mission to
+Hubble
+. (Photo credit: NASA/M. Soluri)
+Page 21
+<!--
+p {margin: 0; padding: 0;}-->
+Page 22
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+20
+including infrared, visible, and ultraviolet light. It contains a variety of broad- and narrow-band filters, as well as grisms (spectroscopic elements), which enable wide-field, low-resolution, slitless spectroscopy with unparalleled sensitivity. Scientists use WFC3 to study planets in our solar system, the formation histories of nearby galaxies, and early and distant galaxies. Astronauts also made in-orbit repairs to two instruments already on
+Hubble
+: STIS and ACS. Neither
+was designed to be serviced in space, so both repairs required new tools and procedures. STIS had stopped working in 2004; to recover it, astronauts replaced a low-voltage power-supply board. ACS had suffered a partial failure in early 2007 after operating exquisitely for nearly five years. To fix it, astronauts replaced failed circuit boards and added a new power supply. These steps effectively restored its high-efficiency imaging in both the visible and ultraviolet portions of the spectrum. Rounding out the mission, various aging components of the spacecraft were upgraded, including the gyroscopes, batteries, and the science instrument command and data handling unit.
+Hubble
+is now functioning at its peak scientific performance.
+Its pictures and spectra fill modern astronomy textbooks. More peer-reviewed scientific papers have been published using
+Hubble
+data than for any other spacecraft. Millions of visits occur
+monthly to the mission’s public outreach websites, and
+Hubble
+images appear regularly in news media.
+Through its long history of travail and triumph, the
+Hubble Space
+Telescope
+mission has combined the best of NASA’s robotic and
+human space flight programs with an exemplary partnership with ESA. One of the most powerful and productive scientific tools ever developed,
+Hubble
+continues to capture scenes of profound
+beauty and intellectual challenge. Thousands of astronomers from around the world have used
+Hubble
+for boundary-breaking
+research in virtually all areas, including the physics of dark matter and dark energy. Not since the days of Galileo has a telescope provided such insight and so broadly piqued the curiosity of the human race.
+The latest on
+Hubble
+and its discoveries can be found at
+http://www.nasa.gov/hubble.
+Page 23
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+21
+The story of Servicing Mission 4 was captured in the IMAX movie Hubble 3D. (Above) Academy Award winner Leonardo DiCaprio records narration for Hubble 3D. (Photo credit: © 2010 Warner Bros.) (Right) The promotional movie poster for Hubble 3D. (Image credit: © 2010 Warner Bros.)
+(Above) Viewers enjoy the Hubble 3D movie. (Photo credit: NASA/P. Alers)  (Right) Five of the seven crewmembers of STS-125 enjoy the premiere of Hubble 3D at a special event at the Smithsonian National Air and Space Museum. (Photo credit: Smithsonian National Air and Space Museum)
+Page 24
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+In this composite view of the Ring Nebula (M57),
+Hubble’
+s visible-light images (blue, yellow, and green areas) were combined with infrared
+data (red areas) from the ground-based Large Binocular Telescope (LBT). Careful analysis of the data allowed astronomers to map the dark, irregular knots of dense gas embedded along the inner rim of the ring with the spikes of light around the bright, main ring, revealing that these rays resulted from a shadowing effect caused by the knots. The LBT is part of the Mount Graham International Observatory in Arizona.
+Page 25
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+Observatory Design
+Page 26
+<!--
+p {margin: 0; padding: 0;}-->
+Page 27
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:36px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft05{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft06{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+25
+Astronauts Steven Smith and John Grunsfeld work to replace
+Hubble
+’s gyroscopes during Servicing Mission 3A in December 1999. Over
+20 years and five servicing missions, astronauts upgraded the telescope with new components ranging from improved instruments to more modern computers, a feat made possible by the spacecraft’s original modular design.
+Observatory Design
+Orbiting 340 miles above Earth, the
+Hubble Space Telescope
+is positioned high above the blurring effects of the atmosphere.
+From this vantage point, it captures images with 10 times the typical clarity of any ground-based telescope and views not only visible light, but also wavelengths of near-infrared and ultraviolet light that cannot reach Earth’s surface. To operate from orbit, the observatory works like any other scientific or imaging spacecraft; it converts the optical data it collects into electrical signals that are transmitted back to Earth. It must also withstand the airless, high-radiation, and harsh thermal environment of space.
+Unlike most other spacecraft, however,
+Hubble
+was designed to be serviced periodically by astronauts and so was built with
+modular components that are astronaut-friendly to handle and replace. This design strategy has enabled it to operate longer than ordinary spacecraft and to benefit from the technological advancements of the last two decades. Astronauts have visited the telescope five times to upgrade its computers, mechanisms, and instruments. These servicing missions have kept the observatory at the forefront of discovery by providing it with increasingly sensitive and accurate components. The last of these servicing calls was in May 2009.
+Hubble
+is big. Excluding its aperture door and solar arrays, the spacecraft is 43.5 feet (13.3 meters) long—about as high
+as a four-story building—and 14 feet (4.3 meters) in diameter at its widest point. Altogether, it would weigh about 25,000 pounds (11,340 kilograms) on the ground, although it is weightless in orbit. About the size of a large school bus, it filled the payload bay of the Space Shuttle
+Discovery
+when carried aloft in April 1990.
+The heart of
+Hubble
+is a circular primary mirror measuring 7.8 feet (2.4 meters) in diameter, which collects approximately
+40,000 times as much light as the human eye. The telescope’s optical layout is known as a Ritchie-Chrétien Cassegrain design. Incoming light bounces off the primary mirror, up to a secondary mirror, and back through a hole in the primary
+Page 28
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft06{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft07{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+26
+mirror, where it comes to a focal plane that is shared among the suite of scientific instruments. A series of baffles painted flat black and mounted within the telescope suppress stray or scattered light from the Sun, Moon, or Earth.
+Hubble
+’s optical system is held together by a supporting skeleton, a truss measuring 17.5 feet (5.3 meters) in length and 9.6
+feet (2.9 meters) in diameter. The 252-pound (114.3-kilogram) truss is a stiff, strong, lightweight, graphite-epoxy material that resists expansion and contraction in the extreme temperatures of space. A similar material is used in the production of golf clubs, tennis racquets, and bicycles.
+The narrow top section of the
+Hubble
+’s tube-shaped body, known as the forward shell, houses the telescope’s optical assembly.
+Most of the control electronics for the observatory sit in bays placed around the middle of the telescope, known as the Support Systems Module (SSM), where the spacecraft body widens. This middle section is near the telescope’s center of gravity and hence home to the telescope’s four 100-pound reaction wheels—the spinning flywheels
+Hubble
+uses to reorient itself. Astronauts can
+easily access the devices within the SSM, and a number of these have been replaced or upgraded during servicing missions.
+Hubble
+’s 1,825-pound, 7.8-foot (2.4-meter) primary mirror collects light from its astronomical target and reflects it to a 12-inch (0.3-meter) secondary
+mirror located in the optical tube. This secondary mirror then reflects the light through a hole in the primary mirror to form an image at the telescope’s focal plane. There it is intercepted by pick-off mirrors that pass it into the scientific instruments.
+Hubble
+’s mirrors are made of ultra-low expansion glass
+kept at a “room temperature” of about 70°F (21°C) to avoid warping. The reflecting surfaces are coated with a 3/1,000,000-inch layer of pure aluminum and protected by a 1/1,000,000-inch layer of magnesium fluoride that also makes the mirrors more reflective to ultraviolet light.
+Light path
+Secondary
+mirror
+Primary
+mirror
+Instruments:
+• STIS
+• COS
+• ACS
+• NICMOS
+FGSs/WFC3
+Equipment
+bays
+Baffle
+Page 29
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft05{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+27
+At the back end of the spacecraft, the “aft shroud” houses the scientific instruments, gyroscopes, star trackers, and other
+components. The aft shroud has room for five scientific instruments. Over the years, NASA and ESA have manufactured
+15 scientific instruments for
+Hubble
+. Through advances in technology, each new generation of instruments has brought
+enormous improvements to the scientific capabilities of the observatory. The current complement consists of the Wide Field
+Camera 3 (WFC3), the Cosmic Origins Spectrograph (COS), the Advanced Camera for Surveys (ACS), the Near Infrared
+Camera and Multi-Object Spectrometer (NICMOS), and the Space Telescope Imaging Spectrograph (STIS).
+The primary and secondary mirrors of
+Hubble
+form an image in the focal plane of the telescope whose light is shared by the instruments and Fine
+Guidance Sensors (FGSs). Seen here are the locations of the instrument fields of view within the focal plane. In the background is a scale image of the Helix Nebula. Two stars found among the three FGS fields of view are selected as guide stars for the observation.
+FGS2
+FGS3
+FGS1
+COS
+STIS
+NICMOS
+WFC3
+ACS
+Page 30
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:36px;font-family:Helvetica-Condensed-LightObl;color:#231f20;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed;color:#231f20;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#231f20;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#231f20;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#231f20;}
+-->
+Hubble Space Telescope
+Primary mirror
+Hubble
+’s primary mirror is 7.8 feet (2.4 meters) in
+diameter. It is made of a special glass coated with aluminum and a compound that reflects ultraviolet light. It collects light from the telescope’s targets and reflects it to the secondary mirror.
+Fine Guidance Sensors
+Hubble
+has three Fine Guidance Sensors (FGSs). Two are needed to
+point and lock the telescope on target, while the third can be used for astrometry, the precise measurement of stellar positions.
+Space Telescope Imaging Spectrograph
+The Space Telescope Imaging Spectrograph (STIS) principally performs spectroscopy—the separation of light into its component colors (or wavelengths) to reveal information about an object’s chemical content, temperature, density, and motion. STIS also performs imaging in most of the ultraviolet bands, the entire optical wavelength band, and some wavelengths extending into the near-infrared. STIS was repaired on orbit in 2009 by astronauts during Servicing Mission 4.
+Cosmic Origins Spectrograph
+The most sensitive ultraviolet spectrograph ever flown, the Cosmic Origins Spectrograph (COS) measures the structure and composition of matter concentrated in the “cosmic web.” It also studies how galaxies, stars, and planets formed and evolved, and is helping determine how the elements needed for life first formed.
+Near Infrared Camera and Multi-Object Spectrometer
+The Near Infrared Camera and Multi-Object Spectrometer (NICMOS) is an instrument for near-infrared imaging and spectroscopic observations of many types of astronomical targets.
+Advanced Camera for Surveys
+The Advanced Camera for Surveys (ACS) was designed primarily for wide-field imagery in visible wavelengths, although it can also detect ultraviolet and near-infrared light. Its wide-field and high-resolution channels failed in 2007, leaving only a “solar-blind” (ultraviolet) channel operational. During Servicing Mission 4, astronauts were able to repair the wide-field channel, restoring the telescope’s capability to capture high-resolution, wide-field views.
+28
+Page 31
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed;color:#231f20;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#231f20;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#231f20;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#231f20;}
+-->
+Secondary mirror
+Like the primary mirror,
+Hubble’
+s secondary mirror
+is made of special glass coated with aluminum and a compound to reﬂect ultraviolet light. It is 12 inches (30.5 centimeters) in diameter and reﬂects the light back through a hole in the primary mirror and into the instruments.
+Aperture door
+Hubble’
+s aperture door can close, if necessary, to prevent
+light from the Sun from entering and potentially damaging the telescope or its instruments.
+Communication antennas
+Digital images and spectra stored in
+Hubble
+’s solid-state
+recorders are converted to radio waves and then beamed through one of the spacecraft’s high-gain antennas (HGAs) to a NASA communications satellite, which relays them to the ground. Because the HGAs would extend off the page above and below the spacecraft image, they are shown here pressed against the side of the telescope in their “berthed positions.” This is how they were configured at launch.
+Solar panels
+Hubble’
+s current set of rigid solar panels use gallium-arsenide
+photovoltaic cells that produce enough power for all the science instruments to operate simultaneously. The first and second sets were larger, flexible panels, but produced less power.
+Support systems
+Essential support systems such as computers, batteries, gyroscopes, reaction wheels, and electronics are contained in these areas.
+Wide Field Camera 3
+With panchromatic vision extending from the ultraviolet through the visible and into the infrared, the Wide Field Camera 3 (WFC3) enhances
+Hubble
+’s capability not only by seeing deeper into the universe,
+but also by providing wide-field imagery in these three regions of the electromagnetic spectrum. WFC3 is used to study galactic evolution, stellar populations in nearby galaxies, dark energy, and dark matter.
+29
+Page 32
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft04{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft05{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+30
+(Opposite page) The Ball Aerospace company designed and built
+Hubble’
+s Space Telescope Imaging Spectrograph (STIS). Installed by
+astronauts in 1997, STIS is used to study such objects as black holes, new stars, and massive extrasolar planets. A low-voltage power supply failure in 2004 rendered STIS inoperable. During the final servicing mission to the telescope in 2009, astronauts successfully replaced the failed unit, bringing STIS back into service. STIS is one of the many complex scientific instruments that have flown on
+Hubble
+.
+(Right) The Wide Field Camera 3 instrument sits at the bottom of the large Space Environment Simulator at NASA’s Goddard Space Flight Center as technicians prepare it for an extended thermal-vacuum test.
+(Below) With the installation of the Wide Field Camera 3,
+Hubble
+gained a sensitive new tool to
+study the cosmos. Here, astronaut Andrew Feustel maneuvers the camera it replaced, the Wide Field and Planetary Camera 2, toward the space shuttle for return to Earth during Servicing Mission 4 inMay 2009.
+Page 33
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+31
+Page 34
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft05{font-size:15px;font-family:Helvetica-Condensed;color:#f9f680;-moz-transform: matrix(         0,         -1,          1,          0, 0, 0);-webkit-transform: matrix(         0,         -1,          1,          0, 0, 0);-o-transform: matrix(         0,         -1,          1,          0, 0, 0);-ms-transform: matrix(         0,         -1,          1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft06{font-size:15px;font-family:Helvetica-Condensed;color:#7fd3c3;-moz-transform: matrix(         0,         -1,          1,          0, 0, 0);-webkit-transform: matrix(         0,         -1,          1,          0, 0, 0);-o-transform: matrix(         0,         -1,          1,          0, 0, 0);-ms-transform: matrix(         0,         -1,          1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft07{font-size:15px;font-family:Helvetica-Condensed;color:#72c93e;-moz-transform: matrix(         0,         -1,          1,          0, 0, 0);-webkit-transform: matrix(         0,         -1,          1,          0, 0, 0);-o-transform: matrix(         0,         -1,          1,          0, 0, 0);-ms-transform: matrix(         0,         -1,          1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft08{font-size:15px;font-family:Helvetica-Condensed;color:#ef3230;-moz-transform: matrix(         0,         -1,          1,          0, 0, 0);-webkit-transform: matrix(         0,         -1,          1,          0, 0, 0);-o-transform: matrix(         0,         -1,          1,          0, 0, 0);-ms-transform: matrix(         0,         -1,          1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft09{font-size:15px;font-family:Helvetica-Condensed;color:#a5e1e7;-moz-transform: matrix(         0,         -1,          1,          0, 0, 0);-webkit-transform: matrix(         0,         -1,          1,          0, 0, 0);-o-transform: matrix(         0,         -1,          1,          0, 0, 0);-ms-transform: matrix(         0,         -1,          1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft010{font-size:15px;font-family:Helvetica-Condensed;color:#7b41a4;-moz-transform: matrix(         0,         -1,          1,          0, 0, 0);-webkit-transform: matrix(         0,         -1,          1,          0, 0, 0);-o-transform: matrix(         0,         -1,          1,          0, 0, 0);-ms-transform: matrix(         0,         -1,          1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft011{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft012{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft013{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+32
+Hubble
+’s instruments collectively observe wavelengths (measured in nanometers) from ultraviolet through infrared. Each instrument was designed to operate
+in a particular wavelength range and function as an imaging camera or a spectrometer, though some instruments do both. The Fine Guidance Sensors (FGSs) not only help the telescope stay locked on target, but can be used as science instruments to accurately determine the relative position of stars.
+All of the spacecraft’s interlocking sections—the forward shell, SSM, and aft shroud—were designed to provide a benign thermal and physical environment in which sensitive telescope optics and scientific instruments can operate. They are encased in a thin aluminum shell and blanketed by many thin layers of insulation. In a single orbit around Earth, the exterior surface of
+Hubble
+varies in temperature from –150°F to +200°F (–101°C to +93°C).
+Despite these wide thermal swings, the interior of the telescope is maintained by the thermal control system to a narrow temperature range—in many areas to a comfortable “room temperature.” Heat sensors, radiators, electric heaters, insulation, and special paints all work in concert to minimize the expansion and contraction that could alter the telescope’s focus. They also keep the electronic devices inside the spacecraft at their proper operating temperatures. During the last three servicing
+STIS
+ACS
+WFC3
+NIMCOS
+FGSs
+COS
+0.01 nm
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+2200
+2400
+1 meter
+0.1 nm
+10 nm
+1 micron
+Page 35
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:13px;line-height:19px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+33
+These two images of a three-light-year-high pillar within the Carina Nebula demonstrate how observations taken in visible and near-infrared light by
+Hubble
+can reveal dramatically different and complementary views of an object. In the visible-light view on the left, strong radiation and energetic streams
+of charged particles from hot young stars in the nebula are seen shaping and compressing the pillar, causing additional new stars to form within it. Two of these infant stars are releasing bidirectional jets of gas seen to protrude from the tops of their respective clouds. In the near-infrared-light view on the right, the presence of hundreds of additional stars is revealed as these longer wavelengths penetrate through much of the gas and dust in the nebula.
+Page 36
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+34
+missions, astronauts replaced sections of
+Hubble
+’s external insulation that had deteriorated from exposure to the harsh
+conditions of space, adding panels called New Outer Blanket Layers over portions of the spacecraft.
+Hubble
+nominally operates via stored commands, computer-based instructions that have associated execution times. The
+Flight Operations Team (FOT) at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, typically sends a day’s worth of commands at once, although they can also command the spacecraft in real time during emergencies, engineering tests, or other such scenarios. These commands are uplinked to the spacecraft—and its scientific and engineering data returned to the ground—via a system
+(Above) Four large, flexible solar-array panels that rolled up like window shades originally provided power to the observatory. Shown on a water table during prelaunch deployment testing, this original design was replaced in Servicing Mission 3B by rigid panels that are less susceptible to twisting caused by the extreme temperature variations they experience in orbit. Although 45 percent smaller than their predecessors, they produce 25 percent more power and reduce the amount of atmospheric drag on the spacecraft. (Left) Astronauts Richard Linnehan (partially visible on the end of
+Columbia
+’s robotic arm) and John Grunsfeld
+(center frame) work to install a new, rigid array.
+Page 37
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:16px;line-height:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+35
+of NASA geosynchronous communications satellites called the Tracking and Data Relay Satellite System. In June 2011, the FOT transitioned from around-the-clock support to a single, staffed shift operating Monday through Friday. On the off-shifts and weekends, a highly robust, autonomous operation system commands and monitors the satellite. FOT members and other knowledgeable systems engineers are notified via cell phone and email if the autonomous system detects any unusual conditions aboard the observatory.
+Hubble
+’s electrical power comes from sunlight. Flanking the telescope’s body are two thin, 25-foot-long solar arrays,
+mounted like wings and rotated to point toward the Sun. Each is covered with solar cells that convert the Sun’s energy into electricity. Astronauts have replaced the solar arrays twice to supply more power and improve the mechanical stability of the spacecraft. The present arrays are rigid panels of gallium-arsenide cells that were originally designed for commercial communications satellites. They generate approximately 5,700 watts of power and are about 30 percent more efficient in converting sunlight to electricity than the prior arrays.
+Batteries are used to allow the telescope to operate while in Earth’s shadow, approximately 36 minutes out of each 95-minute orbit. When fully charged,
+Hubble
+’s six nickel-hydrogen batteries contain enough energy to sustain the telescope in its
+normal science operations mode for 7½ hours, or five orbits. This is approximately the same amount of charge as carried by 20 typical car batteries. Through careful management of their charge rate and depth of discharge,
+Hubble
+’s initial set of
+batteries lasted more than 19 years. After experiencing more than 100,000 charge/discharge cycles, they were replaced with six new batteries in May 2009.
+Hubble
+employs a suite of special devices that work together to maneuver the telescope and keep it aimed precisely on
+target. Three fixed-head star trackers, used in conjunction with a star catalog in the onboard computer, inform the telescope of its general orientation. Six small gyroscopes sense the telescope’s angular motion and also provide this information to
+Hubble
+’s central processor. Three Fine Guidance Sensors (FGSs) accomplish the final precise aim of the telescope by
+locking onto selected “guide stars” that center the desired target into a particular instrument’s field of view.
+Once “locked on” the guide stars,
+Hubble
+wobbles off-target no more than 7 milliarcseconds within a 24-hour period. This
+is equivalent to holding the beam of a laser pointer all day on the face of a dime located 200 miles away. Because of the telescope’s remarkable stability, the FGSs are also used to make very precise measurements of the relative positions of stars. This data provides essential information for measuring distances to nearby stars and determining the component masses of binary star systems. Four ~100-pound reaction wheels comprise the maneuvering system.
+Hubble
+exchanges momentum
+with these flywheels, which—in accordance with the laws of motion—spin one way while
+Hubble
+spins the other.
+Page 38
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+36
+Two primary computers control the main functions of the spacecraft. One, a circa-1980 computer with 64 kilobytes of memory, communicates with the instruments. It receives their data and telemetry, checks their operational status, and passes their data to special interface units for transmission to the ground. It also relays commands and timing information sent to the instruments from the ground. The more “modern” main spacecraft computer, an Intel 80486-based machine with 2 megabytes of random-access memory, handles pointing control, power management, radio communication with the ground, and other spacecraft-monitoring functions.
+A separate safe-mode computer orients
+Hubble
+to a power-positive and thermally safe position in the event of a problem.
+Each science instrument also houses computers and special microprocessors. These are typically Intel 386-class processors and perform such functions as rotating filter wheels, manipulating exposure shutters, maintaining internal temperatures, collecting data, and communicating with the main computers. Not counting redundant (backup) units, there are 12 computers and microprocessors executing flight software on the observatory.
+(Above) Disassembled for illustration, each of
+Hubble
+’s
+gyroscopes measures the spacecraft’s rate of motion about a particular axis—information that is forwarded to the spacecraft’s pointing control system. The gyroscopic action of the devices is achieved by a wheel inside each gyro that spins at a constant rate of 19,200 rpm on gas bearings. This wheel is mounted in a sealed cylinder that floats in a thick fluid. Electricity is carried to the motor by thin wires, each approximately the size of a human hair, that are immersed in the fluid. Electronics within the gyro detect very small movements of the axis of the wheel. (Right) The gyros are packed in pairs inside boxes called rate sensor units.
+Page 39
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft05{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft07{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+37
+Hubble
+’s long lifetime and numerous scientific
+accomplishments are a testimony to how well the telescope was designed, integrated, maintained, and upgraded throughout the years. Many of its discoveries would have been impossible to achieve with the science instruments installed at launch.
+Hubble
+’s design
+serves as a prototype for the next generation of space or lunar-based telescopes, pioneering the way for serviceable observatories in the future.
+The main engineering computer on
+Hubble
+was upgraded in
+1999 during Servicing Mission 3A to an Intel 80486 processor. This computer executes stored commands; formats engineering status data; performs computations to maneuver, point, and stabilize
+Hubble
+; turns the solar arrays to the Sun; commands the
+high-gain antennas; and evaluates the health of the spacecraft.
+Hubble
+’s three original data recorders were mechanical tape recorders with many moving parts that wear out with use. (Left) Two of the three tape
+recorders were replaced during servicing missions with digital solid-state recorders (SSRs). The digital SSRs have no moving parts or tape to break and can each store more than 12 gigabits of data, 10 times the capacity of the tape recorders they replaced. (Right) Astronaut John Grunsfeld maneuvers to install a solid-state recorder during
+Hubble
+Servicing Mission 3A in December 1999.
+Page 40
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+Hubble
+captured four of Saturn’s moons passing in front of the planet in this sequence of images from February 2009. In the lower left
+image, all four can be seen: the large moon Titan (whose shadow has moved off Saturn’s cloud tops to the right); the tiny moon Mimas (just above the rings on the right edge of Saturn); the small but bright moon Dione with its shadow (to the left and above the rings); and the tiny Enceladus with its shadow (to the left of Dione).
+Page 41
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+Operations
+Page 42
+<!--
+p {margin: 0; padding: 0;}-->
+Page 43
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:36px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft07{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+41
+The Flight Operations Team monitors the health and safety of the spacecraft in the Space Telescope Operations Control Center at the Goddard Space Flight Center. Activities also include sending command loads to the spacecraft, monitoring their execution, and arranging for transmission of science and engineering data to the ground. (Photo credit: NASA/W. Hrybyk)
+Operations
+Hubble
+is an orbiting astronomical observatory. Its routine operation requires a mix of knowledgeable personnel similar
+to those found supporting many ground-based observatories. In the simplest sense, scientists plan the observations and analyze the science data taken while engineers and operations staff enable the systems that make the data collection possible. These functions are sometimes distinguished as science operations and mission operations.
+For
+Hubble
+, the science operations function is conducted from the Space Telescope Science Institute (or Institute), located
+on the Homewood campus of The Johns Hopkins University in Baltimore, Maryland. Mission operations work is performed from NASA’s Goddard Space Flight Center (Goddard) in Greenbelt, Maryland, about 30 miles south of the Institute.
+Both science operations and mission operations are far more difficult for
+Hubble
+than those at ground-based observatories.
+The chief challenge is to command and retrieve data from
+Hubble
+as it circles Earth every 95 minutes at more than
+17,000 miles per hour. Other difficulties include keeping its optical components stable in the extreme thermal environment of space and protecting its electronics from space radiation. Earth’s close proximity and its minute-by-minute potential to block Hubble’s view add extra challenges in scheduling the telescope efficiently.
+Awarding Telescope Time
+The process of observing with
+Hubble
+begins with an annual
+Call for Proposals
+issued by the Institute to the astronomical
+community via the internet. Astronomers worldwide are given approximately two months to submit a phase-one proposal that makes a scientific case for using the telescope. Scientists typically request the amount of telescope time they desire in orbits, each 95 minutes long. Longer observations require a more compelling justification since only a limited number of orbits are available. Winning proposals must be well reasoned and address a significant astronomical question or issue. Potential users must also show that they can only accomplish their observations with
+Hubble
+’s unique capabilities and
+cannot achieve similar results with a ground-based observatory.
+Page 44
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+42
+The Institute assembles a time allocation committee, comprising experts from the astronomical community, to determine which proposals will receive observing time. The committee is subdivided into panels that review the proposals submitted within a particular astronomical category. Sample categories include stellar populations, solar system objects, and cosmology. The committee organizers take care to safeguard the process from conflicts of interest, as many of the panel members are likely to have submitted their own proposals.
+Hubble
+operations entered a new phase in 2011 with the automation of many of the spacecraft’s routine functions. Flight controllers now work a single
+shift, Monday through Friday. During off-hours and weekends, computers command the telescope and dump its data recorders. Email alerts, phone messages, and telemetry access via hand-held devices keep the operations team informed of
+Hubble
+’s status.
+Page 45
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft04{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+43
+Proposals are further identified as
+general observer
+, which range in size from a single orbit to several hundred, or
+snapshot
+,
+which require only 45 minutes or less of telescope time. Snapshots are used to fill in gaps within
+Hubble
+’s observing schedule
+that cannot be filled by general observer programs. Since more than one science instrument on
+Hubble
+can take observations
+at a time, astronomers sometimes propose “parallel” observations. These can be “coordinated parallels,” which are taken by a second instrument while the researcher’s primary observation is performed by another instrument, or “pure parallels,” where a second instrument is activated, as appropriate, during another observer’s telescope time. Once the committee has reviewed the proposals and voted on them, it provides a recommended list to the Institute director for final approval.
+Planning the Observations
+Researchers who are awarded telescope time based on the scientific merit of their phase-one proposal must submit a phase-two proposal that specifies the many details necessary for the implementation and scheduling of his or her observations. These details include such items as precise target locations and the wavelengths of any optical filters required. Once an observation has occurred, the data is marked as proprietary within the Institute computer systems for 6 months. This protocol allows observers time to analyze the data and publish their results. At the end of this proprietary-data-rights period, the data is made available to the rest of the astronomical community via the
+Hubble
+data archive.
+Along with their phase-two proposal, observers can also apply for a financial grant to help them process and analyze their observations. These grant requests are reviewed by an independent financial review committee, which then makes recommendations to the Institute director for funding. Grant funds are also available for researchers who submit phase-one proposals to analyze non-proprietary
+Hubble
+data already archived. The financial committee evaluates these requests as well.
+Up to 10 percent of
+Hubble
+’s time is reserved as discretionary time and is allocated by the Institute director. Astronomers
+can apply to use these orbits any time during the course of the year. Discretionary time is typically awarded for the study of unpredictable phenomena such as new supernovas or the appearance of a new comet. Historically, directors have allocated large percentages of this time to special programs that are too big to be approved for any one astronomy team. For example, the observation of the
+Hubble
+Deep Field (1996) and
+Hubble
+Ultra Deep Field (2004) both used director’s discretionary time.
+Scheduling the Telescope
+The Institute creates a long-range schedule to order the diverse collection of observations awarded telescope time as efficiently as possible. This task is complicated because the telescope cannot be pointed too close to bright objects like the sunlit side of Earth, the Sun, and the Moon. Adding to the difficulty, each astronomical target can only be seen during
+Page 46
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft05{font-size:16px;line-height:29px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft07{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+44
+certain months of the year; some instruments cannot operate in the high space-radiation areas of
+Hubble
+’s orbit; and the
+instruments regularly need to be calibrated. Preparing for an observation also involves selecting guide stars to stabilize the telescope’s pointing and center the target in the instrument’s field of view. The selection is done automatically by the Institute’s computers, which choose two stars per pointing from a catalog of almost a billion stars.
+A weekly, short-term schedule is created from the long-range plan. This schedule is translated into detailed instructions for both the telescope and its instruments to perform the observations and calibrations for the week. From this information, daily command loads are then sent from the Institute to Goddard to be uplinked to
+Hubble
+.
+Mission Operations
+At Goddard, a number of groups conduct mission operations for the observatory. The Flight Operations Team (FOT), along with a group of spacecraft engineers, maintain the health and safety of the observatory. Together, they monitor
+Hubble
+’s
+telemetry and check the spacecraft’s subsystems for correct daily performance and longer-term trends.
+Other personnel are responsible for modifying
+Hubble
+’s flight software. Extensive software testing facilities and simulators
+assure that any changes to this code are done safely. Programmers, system administrators, hardware field engineers, database administrators, and testers all coordinate activities at Goddard to keep the mission operations systems functioning reliably. Similar groups at the Institute ensure the integrity of the science operations systems.
+Communication with
+Hubble
+is accomplished via NASA’s Tracking and Data Relay Satellite System (TDRSS). The TDRSS
+satellites provide nearly continuous communications coverage with
+Hubble
+. FOT members uplink the command loads from
+the Institute into
+Hubble
+’s main onboard computer, which then executes the commands at prescribed times to maneuver the
+telescope and take observations. Solid-state data recorders store the science data on the spacecraft. FOT members have the responsibility of managing the content of these recorders and periodically transmitting the data to TDRSS’s ground terminal at White Sands, New Mexico. From there, the data is sent to Goddard to ensure its completeness and accuracy. Goddard then sends the data to the Institute for processing, calibration, and archiving.
+Operating
+Hubble
+requires a dedicated staff of knowledgeable and detail-oriented personnel. Here, a flight software engineer reviews a flow
+diagram of the on-board computer code that calculates and corrects for small signal variations from
+Hubble
+’s six, sensitive, rate-sensing
+gyroscopes. These signal variations generally increase with time, requiring periodic adjustments to the flight software algorithms within the pointing control system of the telescope.
+Page 47
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+45
+Page 48
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft04{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft05{font-size:12px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft06{font-size:12px;font-family:Helvetica-Condensed;color:#ffffff;-moz-transform: matrix(0.9423614799, 0.0576385201, -0.0576385201, 0.9423614799, 0, 0);-webkit-transform: matrix(0.9423614799, 0.0576385201, -0.0576385201, 0.9423614799, 0, 0);-o-transform: matrix(0.9423614799, 0.0576385201, -0.0576385201, 0.9423614799, 0, 0);-ms-transform: matrix(0.9423614799, 0.0576385201, -0.0576385201, 0.9423614799, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft07{font-size:12px;font-family:Helvetica-Condensed;color:#ffffff;-moz-transform: matrix(0.1752964114, 0.8247035886, -0.8247035886, 0.1752964114, 0, 0);-webkit-transform: matrix(0.1752964114, 0.8247035886, -0.8247035886, 0.1752964114, 0, 0);-o-transform: matrix(0.1752964114, 0.8247035886, -0.8247035886, 0.1752964114, 0, 0);-ms-transform: matrix(0.1752964114, 0.8247035886, -0.8247035886, 0.1752964114, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft08{font-size:11px;font-family:Helvetica-Condensed;color:#ffffff;-moz-transform: matrix(1.0751913128, -0.0751913128, 0.0751913128, 1.0751913128, 0, 0);-webkit-transform: matrix(1.0751913128, -0.0751913128, 0.0751913128, 1.0751913128, 0, 0);-o-transform: matrix(1.0751913128, -0.0751913128, 0.0751913128, 1.0751913128, 0, 0);-ms-transform: matrix(1.0751913128, -0.0751913128, 0.0751913128, 1.0751913128, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft09{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft010{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft011{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft012{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+46
+The
+Hubble Space Telescope
+uses NASA’s Tracking and Data Relay Satellite System and its ground station to transfer data to
+Hubble
+’s control
+center at the Goddard Space Flight Center. The scientific data is then transmitted to the Space Telescope Science Institute, where it is processed and distributed to the astronomical community.
+Hubble Space
+Telescope
+Tracking and
+Data Relay
+Satellite
+Ground Station
+White Sands, NM
+Goddard Space
+Flight Center
+Greenbelt, MD
+Space Telescope
+Science Institute
+Baltimore, MD
+DATA
+DATA
+DATA
+LIGHT
+The Space Telescope Operations Control Center at Goddard is staffed by the FOT Monday through Friday on a single, eight-hour shift. A robust automated-operations system conducts routine activities after-hours and on weekends. It performs routine commanding, monitors telemetry from the spacecraft, and alerts appropriate personnel via phone calls, text messages, and emails when anomalies occur.
+Hubble
+downlinks approximately 18 gigabytes of new science data each week. Astronomers, in turn, typically retrieve about
+10 terabytes of data monthly from this growing archive. As of late 2020
+Hubble
+data had been used to publish more than
+18,000 peer-reviewed scientific papers, a number that has continued to grow by approximately three per day.
+Page 49
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft07{font-size:16px;line-height:29px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+47
+The Vehicle Electrical Systems Test (VEST) unit at Goddard is a high-fidelity
+Hubble
+simulator comprising spare flight components as well as various
+boxes that emulate spacecraft subsystems and instruments. The VEST is used to diagnose spacecraft anomalies as well as to validate new operating procedures and flight software.
+One Astronomer’s Story
+Images and spectra from
+Hubble
+are always scientifically valuable, but not necessarily beautiful. The public’s ability to
+connect with the telescope, however, depends upon producing aesthetically powerful images. Because such images are not always generated during the normal course of scientific analysis, a dedicated project called
+Hubble
+Heritage was created in
+1998. In fact, the
+Hubble
+Heritage group has produced a significant percentage of the most popular images in the telescope’s
+online catalog.
+Page 50
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+48
+(Above) Technical status meetings are held monthly with flight operations, ground systems, flight software, and system engineering personnel to review the observatory’s performance and discuss any issues regarding the many flight and ground components of the mission. (Below) Similarly, NASA project management personnel meet regularly with the Space Telescope Science Institute staff to review the performance of the instruments, gauge the effectiveness of science operations, and survey the latest astronomical results. The information is used to prioritize future work and to keep the observatory operating as safely and efficiently as possible.
+Page 51
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:16px;line-height:29px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+49
+In 2012,
+Hubble
+Heritage Principal Investigator Zolt Levay proposed a spectacular planetary nebula, NGC 5189, as one of
+three targets for the project. NGC 5189, a star in a late stage of evolution, is ejecting its outer layers in a dramatic fashion. It exhibits a remarkable spiral structure that is unusual for this type of object. Excellent, ground-based images showed intriguing details of this complex structure, which made it a good candidate for
+Hubble
+, whose finer resolution could reveal
+even more detail. Furthermore, the crisp and clear images
+Hubble
+was expected to obtain would be useful, along with
+analysis of the ground-based data, for developing a three-dimensional visualization of the object.
+On May 2, 2012, Levay and the Heritage team submitted a proposal for director’s discretionary time. Heritage observations were requested through the director’s discretionary process rather than the usual science proposal process because the program’s goal is primarily outreach. Although it is historically unusual for large observatories to allocate telescope resources for outreach, several Institute directors have generously approved Heritage proposals for a small fraction of the available
+Hubble
+orbits. In addition to producing images for public outreach, these datasets have research value and are
+available for scientific analysis.
+Several other factors were involved in the choice of NGC 5189 besides its spectacular nature. First, it is bright enough to observe with the relatively few orbits available to the Heritage team; second, it fits neatly in
+Hubble
+‘s field of view; and third,
+the narrow-band filters available with Wide Field Camera 3 are especially well suited to imaging planetary nebulas.
+Levay’s phase-one discretionary time proposal was accepted on May 18, 2012. Then he and the Heritage team submitted a phase-two proposal that contained specifics on how the observations would be carried out. After these details were finalized and their technical feasibility was confirmed, the observation was scheduled.
+Hubble
+observed NGC 5189 on July 6, 2012. The view consisted of six orbits and used five filters for a total of 426 minutes
+of exposure time. While this observation was accomplished in a single pointing during consecutive orbits, this is rarely the case.
+Hubble
+often moves to an entirely different target, then returns later to complete an observation, sometimes building
+a mosaic of several adjacent fields.
+A planetary nebula emits light in discrete colors produced by particular chemical elements in specific physical conditions. Color filters used in combination with the telescope’s black-and-white detectors isolate these colors from
+Page 52
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:24px;font-family:Helvetica-Condensed-Black;color:#fff877;}
+.ft03{font-size:24px;font-family:Helvetica-Condensed-BlackObl;color:#fff877;}
+.ft04{font-size:15px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-Black;color:#fff877;}
+.ft06{font-size:13px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft07{font-size:12px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft08{font-size:11px;font-family:Helvetica-Condensed;color:#ffffff;-moz-transform: matrix(         0,         -1,          1,          0, 0, 0);-webkit-transform: matrix(         0,         -1,          1,          0, 0, 0);-o-transform: matrix(         0,         -1,          1,          0, 0, 0);-ms-transform: matrix(         0,         -1,          1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft09{font-size:13px;font-family:Helvetica-Condensed;color:#fff877;}
+.ft010{font-size:13px;font-family:Helvetica-Condensed;color:#ffffff;}
+-->
+50
+Data from each of
+Hubble
+’s instruments is processed differently, but the simplified procedure outlined here is typical for images taken with Wide Field Camera 3. The camera
+only records black-and-white images. By taking exposures through multiple color filters, scientists create a composite color image by establishing the relative brightness of the
+target in each color filter.
+The camera’s detector consists of two adjacent computer chips separated by a small gap. Six individual exposures (three sets of two) are taken through red, green, and blue
+filters. Between each pair of exposures, the telescope moves very slightly, or dithers, so that the image falls upon different pixels in the detector. This permits the identification
+and removal of features created by pixel-to-pixel and chip-to-chip differences within the detector (Step 1). Combining the pair of exposures taken at each dither location then
+permits the identification and removal of streaks in the images caused by cosmic rays (Step 2). Magnified views show image pair A and B forming a third image C that is free of
+these streaks. The three images are then combined to further minimize any distortions introduced by the optics (Step 3). Color information is then added for the given filter (Step
+4) and the three color images combined into a full-color composite (Step 5). See page 51.
+Creating a Color Image of NGC 5189 from
+Hubble
+Data
+Combining A and B
+removes cosmic rays
+C
+STEP 1
+STEP 2
+STEP 3
+STEP 4
+Pair 1
+1
+Chip 2
+Chip 1
+2
+Pair 2
+Pair 3
+The resulting color image—in this case, red for Filter 1.
+B
+A
+FILTER 1
+C
+STEP 1.
+Data from the archive is calibrated so as to remove artifacts caused
+by the physical and electrical characteristics of the detector.
+STEP 2.
+Cosmic rays are removed by combining two exposures of the same
+field of view and subracting the differences.
+STEP 3.
+Three images taken at different, overlapping positions are combined
+to fill in the gaps between the detector’s two computer chips and to remove
+any residual image distortions.
+STEP 4.
+Color is applied to the black-and-white image.
+1
+1
+2
+2
+A
+STEP 5.
+Three color images are combined into a full-color, composite image.
+B
+Cosmic rays
+Page 53
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-Black;color:#fff877;}
+.ft02{font-size:15px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+-->
+51
+STEP 5
+NGC 5189
+FILTER 1
+FILTER 2
+FILTER 3
+Page 54
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:16px;line-height:29px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+52
+the wider spectrum. A final composite color image is later constructed by combining these together. The relative brightness of the light recorded through each of the various filters determines the final color in each pixel of the image. (See graphic on page 48.)
+Once
+Hubble
+took the observation and the data was stored in the archive, Levay and the Heritage team received an
+email notification that the image was available. The routine data processing it received included calibration, geometric correction, image combination to fill the gap between the camera’s detector chips, and cosmic-ray subtraction. Heritage team members processed the data further to produce a single image for each filter and then created the composite color image.
+In collaboration with the news office at the Institute, the Heritage team released the image of NGC 5189 to the public as a special holiday image on December 18, 2012.
+Hubble
+observations differ widely in their complexity. The steps taken to produce the color image of NGC 5189 were
+relatively simple. They did not involve tracking a moving object, like a planet or comet. They also did not require stitching together images of a target too large to fit within a single field of view, coordinating the observation with another observatory, or rolling the spacecraft so that light entered at a particular angle (as required for
+Hubble
+’s spectrographs).
+Though regularly performed, these additional steps require that operations personnel employ an even greater attention to detail than normal to ensure that no errors are made and that the observatory remains safe and productive.
+Hubble
+’s
+caretakers are doing everything possible to keep the observatory fully operational for as long as the scientific instruments can advance our understanding of the universe.
+Planetary nebulas form around medium-sized stars (like the Sun) during a brief stage near the end of their lives. During this stage, the dying star expels a large portion of its outer gaseous envelope. This material is then ionized by intense ultraviolet radiation released from the stellar remnant, causing the gases to radiate. This planetary nebula, NGC 5189, is located a few thousand light-years away and can be found in the small, southern constellation known as Musca.
+Page 55
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+53
+Page 56
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+Globular cluster Messier 15 (M15) is one of 150 dense, spherically shaped clusters of stars that reside on the fringes of our Milky Way galaxy. Globular clusters are ancient, containing stars up to 12 billion years old (compared to our Sun, which is less than 5 billion years old).
+Hubble
+provided evidence that the more than 100,000 stars in M15 swarm around a central black hole. M15 also includes the first
+planetary nebula known to reside in a globular cluster, which appears as the extended blue object to the upper left of the cluster’s core.
+Page 57
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+Science
+Page 58
+<!--
+p {margin: 0; padding: 0;}-->
+Page 59
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:36px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft05{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+57
+One of
+Hubble
+’s most iconic images is of this portion of the Eagle Nebula (M16). Dubbed the “Pillars of Creation,” it shows star birth.
+Imbedded in the tips of the finger-like protrusions at the top of the columns are dense, gaseous globules within which stars are being born.
+Science
+With its versatile suite of cameras and spectrographs,
+Hubble
+observes objects as nearby as the Moon and passing comets,
+and as distant as primitive galaxies that date back to when the universe was just three percent of its current age.
+Hubble
+’s
+ability to sense near-infrared and ultraviolet wavelengths, which human eyes cannot see, extends our vision and reveals features that otherwise would go undetected. The telescope’s remarkable sensitivity and range have led to discoveries that are changing our fundamental understanding of the cosmos.
+Thanks to
+Hubble
+’s exceptional capabilities, its observations remain highly prized, decades into the mission. Every year,
+scientists request so much time with
+Hubble
+that it would take about seven identical telescopes to perform all of the
+proposed observations, while the demand for data from
+Hubble
+’s ever-growing archive is on the rise. There are more
+than 10,000 registered
+Hubble
+archive users around the globe, from PhD scientists to high school students, and data
+retrievals have more than doubled since the final servicing mission in 2009. Encompassing more than a quarter century of observations,
+Hubble
+’s extensive archive provides unique opportunities to study cosmic phenomena over long periods of
+time and supplies a wealth of new discoveries.
+Hubble
+has taken more than a million observations during its lifetime, and astronomers have used that data to publish more
+than 15,000 peer-reviewed scientific publications on a broad range of topics. These papers have been referenced in other publications over 700,000 times, and this total increases, on average, by more than 150 per day. Every current astronomy textbook includes contributions from the orbiting observatory. In fact, today’s college undergraduates have not known a time in their lives when astronomers were not actively making discoveries with
+Hubble
+data.
+It would be nearly impossible to provide a comprehensive list of all the scientific contributions
+Hubble
+has made so far
+during its extraordinary career. Instead, this chapter features thirteen representative topics that serve to highlight some of
+Hubble
+’s greatest scientific achievements to date.
+Page 60
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:18px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft06{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft07{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft08{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+58
+Discovering a Runaway Universe
+Our cosmos is getting bigger. Nearly a century ago Edwin Hubble measured the expansion rate of the universe. This value, called the Hubble constant, is an essential ingredient needed to determine the age, size, and fate of the cosmos. Before
+Hubble
+was launched, the value of the Hubble constant was imprecise, and calculations of the universe’s age ranged
+from 10 billion to 20 billion years. Now, astronomers using
+Hubble
+have refined their estimates of the universe’s present
+expansion rate and are working to make it more accurate. They do this by getting better galaxy distance measurements from
+Hubble
+and coupling these values with the best galaxy-velocity measurements obtained from other telescopes.
+Scientists measure distances by comparing the brightness of a known object in our galaxy (like a star or an exploded star) to that of a similar object in a distant galaxy. With
+Hubble
+’s refined distance values, calculations currently put the
+age of the universe as 13.8 billion years.
+To the surprise of astronomers,
+Hubble
+observations along with those of ground-based observatories have also shown that
+the universe is not just expanding, but accelerating—a discovery that won the 2011 Nobel Prize in Physics. Many scientists believe this acceleration is caused by a “dark energy” that pervades the universe. Dark energy can be thought of as a sort of “antigravity” that is pushing galaxies apart by stretching space at an increasing pace. The nature of this energy is a complete mystery, even though astronomers estimate that it makes up about 70 percent of the mass and energy in the entire universe. Though it cannot be measured directly using current technology, dark energy can be characterized by its effect on matter in the visible universe. By observing how dark energy behaves over time, astronomers hope to gain a better understanding of what it is and how it might affect the future of the cosmos.
+1995
+2002
+Certain supernovas have a characteristic maxi-mum brightness that can be used to calculate their distances from Earth. Refining celestial dis-tances enables astronomers to better calculate the expansion rate of the universe. The arrow points to a distant supernova discovered in an area of the sky first imaged in 1995 called the
+Hubble
+Deep
+Field. Astronomers found the supernova when they targeted the same area of sky again in 2002 and saw a change.
+Page 61
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:18px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft04{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+Dec. 17, 2010
+Dec. 21, 2010
+Dec. 30, 2010
+Jan. 26, 2011
+Astronomers use cyclical changes in the brightness of Cepheid stars to determine astronomical distances. The arrow points to a Cepheid star in the Andromeda galaxy observed by
+Hubble
+(small boxes). (Main photo credit: R. Gendler)
+Page 62
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft06{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+60
+Tracing the Growth of Galaxies
+Like documenting a child’s development in a scrapbook, astronomers have used
+Hubble
+to capture the appearance of many
+developing galaxies throughout cosmic time. This is possible because of the mathematical relationship between cosmic distance and time: the deeper
+Hubble
+peers into space, the farther back it looks in time. As it happens, the most distant and
+earliest galaxies spied by
+Hubble
+are smaller and more irregularly shaped than today’s grand spiral and elliptical galaxies.
+This is evidence that galaxies grew over time through mergers with other galaxies to become the giant systems we see today.
+Because the universe was smaller in the past, galaxies were more likely to interact with one another gravitationally. Some of
+Hubble
+’s cosmic “snapshots” show fantastic stellar streamers pulled out and flung across space by colliding galaxies. They
+apparently settled over time into the more familiarly shaped galaxies seen closer to Earth and hence nearer to the present time. By carefully studying galaxies at different epochs, astronomers can see how galaxies changed and evolved over time. Among the things they investigate are the relative amounts of stars and gas in galaxies, the types and amounts of identifiable chemical elements present, and star-formation rates.
+And the evolution continues.
+Hubble
+observations of our neighboring Andromeda galaxy (M31) have allowed astronomers
+to predict with certainty that a titanic collision between our Milky Way galaxy and Andromeda will inevitably take place beginning 4 billion years from now. The galaxy is now 2.5 million light-years away, but it is inescapably moving toward the Milky Way under the mutual pull of gravity between the two galaxies and the invisible dark matter that surrounds them both. The merger will likely result in the creation of a giant elliptical galaxy billions of years from now.
+A sample of the faintest and farthest galaxies in the
+Hubble
+Ultra Deep Field shows that they were irregularly shaped and frequently interacting in the
+distant past.
+Page 63
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+61
+Hubble
+’s Ultra Deep Field is one of the most distant looks into space ever. The cumulative exposure time needed to capture the image was about a
+million seconds (11 days).
+Page 64
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+62
+Recognizing Worlds Beyond Our Sun
+At the time of
+Hubble
+’s launch in 1990, astronomers had not found any planets outside our solar system. Scientists
+have now confirmed the existence of more than 3,000 extrasolar planets, most of them discovered by NASA’s
+Kepler
+space observatory and by ground-based telescopes.
+Hubble
+, however, has made some unique contributions to the
+planet hunt.
+Astronomers used
+Hubble
+to make the first measurements of the atmospheric composition of extrasolar planets.
+Hubble
+observations have identified atmospheres that contain sodium, oxygen, carbon, hydrogen, carbon dioxide, methane, and water vapor. Most of the planetary bodies studied to date are too hot for life as we know it. But the
+Hubble
+observations
+demonstrate that the basic organic components for life can be detected and measured on planets orbiting other stars. In one case, astronomers had sufficient data to make a detailed global map of an exoplanet showing the temperature at different layers in its atmosphere, and the amount and distribution of its water vapor.
+Hubble
+’s ultraviolet-light capabilities were used to uncover an immense cloud of hydrogen bleeding off a planet orbiting
+a nearby star. The hydrogen is evaporating from a warm, Neptune-sized planet due to extreme radiation from the star. This planet could explain the existence of so-called hot super-Earths, which might have suffered a similar process and are now stripped down to their exposed rocky cores.
+Using another technique called gravitational microlensing, astronomers have also used
+Hubble
+to confirm the existence of
+a Saturn-mass planet orbiting two small, faint stars in a tight orbit around each other. Gravitational microlensing occurs when the gravity of a moving foreground star bends and amplifies the light of a background star that temporarily aligns with it along our line of sight. Details in the character of the brightening reveal clues to the nature of the foreground star and any planets it may have.
+Hubble
+also captured what might be the first visible-light images of an extrasolar planet. The possible planet circles the star
+Fomalhaut, located 25 light-years away. This unusual object follows a highly elongated orbit near the inner edge of a ringlikedisk around Fomalhaut, and is presently about 10 times farther from the star than Saturn is from the Sun.
+Page 65
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:18px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+.ft04{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;-moz-transform: matrix(0.6969547275, 0.3030452725, -0.3030452725, 0.6969547275, 0, 0);-webkit-transform: matrix(0.6969547275, 0.3030452725, -0.3030452725, 0.6969547275, 0, 0);-o-transform: matrix(0.6969547275, 0.3030452725, -0.3030452725, 0.6969547275, 0, 0);-ms-transform: matrix(0.6969547275, 0.3030452725, -0.3030452725, 0.6969547275, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft05{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+63
+Astronomers used
+Hubble
+to take one of the first-ever visible-light pictures of an
+extrasolar planet, named Fomalhaut b.
+Planet Fomalhaut b
+2004
+2006
+2010
+2012
+Page 66
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft06{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft07{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+64
+Shining a Light on Dark Matter
+Dark matter is an invisible form of matter that makes up most of the universe’s mass and creates its underlying structure. Dark matter’s gravity drives normal matter (gas and dust) to collect and build up into stars and galaxies. Although astronomers cannot see dark matter, they can detect its influence by observing how the gravity of massive galaxy clusters, which contain dark matter, bends and distorts the light of more distant galaxies located behind the cluster. This phenomenon is called gravitational lensing.
+Hubble
+’s uniquely sharp vision allows astronomers to map the distribution of dark matter in space using gravitational
+lensing. Large galaxy clusters contain both dark matter and normal matter. By observing the areas around massive clusters of galaxies astronomers can identify warped background galaxies and reverse-engineer their distortions to reveal where the densest concentrations of matter lie. Mathematical models of these results shed light on the location and properties of the lensing material, both visible and invisible (dark). The universe appears to have about five times more dark matter than regular matter and seems to be organized around an immense network of dark matter filaments that have grown over time. Massive visible structures, like galaxy clusters, are found at the intersections of these filaments.
+Left: This sketch shows paths of light from a distant galaxy that is being gravitationally lensed. Right: Gravitational lensing has created three distorted images of the same background galaxy and five of a background quasar in this image of galaxy cluster SDSS J1004+4112.
+Lensed Galaxy
+Lensed Quasar
+Page 67
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+65
+These two pictures show a massive galaxy cluster, Cl 0024+17. The visible-light image (top) shows blue arcs among the yellowish galaxies. These arcs are magnified, warped images of galaxies located behind the cluster whose light has been distorted and bent. A blue overlay (bottom) shows the dark matter density needed to account for the gravitational distortions.
+Page 68
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft06{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft07{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft08{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+66
+Realizing Monster Black Holes Are Everywhere
+Hubble
+provided decisive evidence that the hubs
+of most galaxies contain enormous black holes, which have the mass of millions or even billions of stars. Not only are black holes resident in almost every galaxy, but somehow their sizes correspond. A
+Hubble
+census of galaxies showed that a black
+hole’s mass is dependent on the mass of its host galaxy’s central bulge of stars: the larger the galaxy, the larger the black hole. This close relationship may be evidence that black holes grew along with their galaxies, devouring a fraction of the galaxy’s mass.
+Hubble
+also provided astronomers the first-
+ever views of material encircling black holes in large, flat disks.
+(Left) This Hubble image shows the bright core at the center of galaxy M84, surrounded
+by a vertical dark band of gas and dust. (Right) This plot was generated by passing
+light from near the galaxy’s core through a spectrograph. The thin, vertical rectangle
+in the center of the left panel shows the size and shape of the spectrograph’s sampling
+slit. A spectrum was taken at each point along the slit, recording the rotational motion
+of stars and gas at each position. Blueshifted light indicates the material is moving
+toward Earth, while redshifted light indicates the material is moving away. The farther
+the light is plotted to the left or right, the greater the source’s rotational velocity. At
+880,000 miles per hour, stars and glowing gases nearest to M84’s core are moving the
+fastest. They are circling a black hole at the center of the galaxy, with material plotted
+on the left moving rapidly toward Earth and material on the right rapidly receding.
+NGC 4486B
+Combining images with data from
+Hubble’s
+spectrographs, researchers have peered into
+the center of many galaxies and established the existence of large black holes. In a census performed by
+Hubble
+in the late 1990s, galaxies NGC 3379 and NGC 3377 were found to
+have black holes that “weighed in” at 50 million and more than 100 million solar masses, respectively, while NGC 4486B was revealed to have a double nucleus at its core.
+NGC 3377
+NGC 3379
+Page 69
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+67
+As seen in this large, visible-light image from
+Hubble
+, a dark lane of dust obscures the core of nearby galaxy Centaurus A. However, with
+Hubble
+’s
+infrared vision, astronomers were able to peer through the thick dust to see a disk of hot gas encircling the galaxy’s central black hole (the elongated, white region in the inset image). The box in the visible-light image shows the area covered by the infrared view.
+These
+Hubble
+images show disks of dust that fuel black holes at the centers of the galaxies NGC 4261 (left) and NGC 7052 (right).
+Page 70
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:15px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+.ft06{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft07{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft08{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft09{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+68
+Studying the Outer Planets and Moons
+Hubble
+has witnessed impacts on Jupiter that were produced by minor bodies in the solar system. The latest collision observed by
+Hubble
+occurred in 2009 when a suspected asteroid plunged into Jupiter’s atmosphere, leaving a temporary dark feature the size
+of the Pacific Ocean. In 1994
+Hubble
+watched 21 fragments of Comet Shoemaker-Levy 9 bombard the giant planet sequentially—
+the first time astronomers witnessed such an event. Each impact left a temporary black, sooty scar within Jupiter’s clouds.
+Jupiter is well known for its Great Red Spot, a giant storm roughly the size of Earth that has been continuously visible since at least the late 1800s. The mammoth storm has been shrinking in size for more than 90 years. Astronomers now use
+Hubble
+regularly to measure the Red Spot’s size and investigate why it is slowly disappearing.
+Hubble
+also made the first images of bright auroras at the northern and southern poles of Saturn and Jupiter. Auroras are
+brilliant curtains of light that appear in the upper atmosphere of a planet with a magnetic field. They develop when electrically charged particles trapped in the magnetic field spiral inward at high speeds toward the north and south magnetic poles. When these particles hit the upper atmosphere, they excite atoms and molecules there causing them to glow in a similar process to that of a fluorescent light.
+This image series, starting in the lower right corner, shows the darkening of Jupiter’s clouds as a result of the impact of Comet Shoemaker-Levy 9.
+20:15
+20:18
+20:21
+20:24
+20:27
+Hubble
+captured a colossal plume rising above the limb of Jupiter
+from the impact of the first large fragment of Comet Shoemaker-Levy 9. (Times along the left side are in hour : minute format.)
+Page 71
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft03{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+69
+Hubble
+’s ability to capture ultraviolet light revealed a
+region of glowing auroras over the south pole of Saturn. While sharing some features of Earth’s auroras and other features of Jupiter’s, Saturn’s auroras are different from both and are likely unique in the solar system.
+Page 72
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft05{font-size:18px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+.ft06{font-size:16px;line-height:25px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft07{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+70
+Jupiter’s moons also have yielded important clues in the search for life beyond Earth.
+Hubble
+provided the best evidence
+yet for an underground saltwater ocean on Ganymede, the largest moon in the solar system, by detecting related activity in Ganymede’s own auroras. This subterranean ocean is thought to have more water than all the water on Earth’s surface.
+Hubble
+also recorded evidence of transient changes in the atmosphere above the surface of Jupiter’s moon Europa. Astronomers suspect that these disturbances are caused by gas plumes expelled from a subsurface ocean. Identifying liquid water is crucial in the search for habitable worlds beyond Earth and in the quest to find life as we know it.
+Monitoring the clouds on Uranus and Neptune over decades,
+Hubble
+has watched storms come and go and has shown
+how the planets’ atmospheres change from season to season.
+Hubble
+has also examined the outermost planets’ rings and
+moons, helping astronomers discover a moon of Neptune as well as two moons and a pair of rings around Uranus.
+Jupiter’s trademark Great Red Spot—a swirling, 300-mile-per-hour storm—has shrunk to its smallest size ever. Astronomers have followed this gradual downsizing since the 1930s and are now keenly monitoring its shrinkage and investigating its cause with
+Hubble
+.
+1995
+2009
+2014
+The blue areas mapped on Jupiter’s moon Europa (below left) mark spots where
+Hubble
+found spectroscopic evidence of oxygen and hydrogen—the
+two elements that form the water molecule. Scientists believe this is most likely the result of water vapor plumes erupting from beneath the surface, with recent visual evidence of these plumes also seen by
+Hubble
+(below right). The pictures of Europa are a combination of shots gathered by NASA’s
+Voyager
+and
+Galileo
+missions.
+Page 73
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:18px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+.ft04{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft05{font-size:15px;font-family:Helvetica-Condensed;color:#fff877;}
+-->
+71
+As Uranus moves around the Sun, the angle of its rings changes from Earth’s point of view, as demonstrated by this sequence of
+Hubble
+images. From
+Earth, the rings of Uranus appear on edge only once every 42 years, and in 2007 the rings were edge-on for the first time since their discovery in 1977.
+Astronomers discovered a small moon orbiting Neptune, currently designated S/2004 N 1, while examining archived
+Hubble
+images taken between
+2004 and 2009. In this composite of
+Hubble
+observations from 2009, the black-and-white image shows the newfound moon and other previously
+known moons along with some ring structures. The color image of Neptune reveals numerous clouds on the planet.
+2003
+2005
+2007
+rings
+rings
+S/2004 N 1
+Thalassa
+Galatea
+Despina
+Larissa
+Page 74
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:11px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft06{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft07{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+72
+Uncovering Icy Objects in the Kuiper Belt
+While probing the dwarf planet Pluto on the outskirts of our solar system,
+Hubble
+spied four previously unknown moons
+orbiting the icy world. The tiny moons Nix and Hydra were the first to be spotted, followed by the even tinier Kerberos and Styx. Astronomers recently discovered that Nix and Hydra are rotating chaotically, that is, unpredictably, as they orbit the dwarf planet.
+NASA’s
+New Horizons
+spacecraft shot past Pluto in July 2015, making detailed observations of its surprisingly varied and
+intriguing surface.
+Hubble
+played a critical role in helping astronomers prepare for the flyby. With frequent observations
+of Pluto from the early 1990s to 2010, scientists refined maps of the planet’s surface.
+New Horizons
+personnel used these
+maps to prepare for the spacecraft’s brief but important rendezvous with Pluto and its moons.
+Peering out even farther, to the dim outer reaches of our solar system,
+Hubble
+uncovered Kuiper belt objects that the
+New Horizons
+spacecraft could potentially visit on its continual outward journey. Two of the most promising objects
+found were provisionally named 2014 PN
+70
+and 2014 MU
+69
+, the latter being the one that
+New Horizons
+will inspect
+up close.
+Hubble
+has also discovered moons around other Kuiper belt objects, including a 100-mile-wide moon in orbit around
+Makemake, the second brightest dwarf planet in the Kuiper belt. At 4.8 billion miles from the Sun, Makemake was discovered in 2005 using the Palomar Observatory and is approximately 870 miles across. Oddly, the moon, nicknamed MK 2, is as dark as charcoal while Makemake is as bright as fresh snow.
+Hubble
+’s view of Pluto provided NASA’s
+New Horizons
+mission with the best available information for planning its rendezvous with the dwarf planet.
+Page 75
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:8px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft05{font-size:9px;font-family:Helvetica-Condensed;color:#ffffff;}
+-->
+73
+This graphic combines images that were taken by
+Hubble
+in July 2012. A long exposure (blue areas) captures the tiny moons, while a shorter
+exposure (vertical black band) shows Pluto and Charon more clearly. (Objects not to scale.)
+Left: Approximately 100 miles in diameter, the tiny dot above the dwarf planet Makemake seen in this
+Hubble
+image is its orbiting moon, nicknamed
+MK 2. Middle and Right: Astronomers spotted a moon (arrowed) orbiting a large, distant Kuiper belt object called 2007 OR
+10
+in archived
+Hubble
+images
+taken about a year apart.
+Kerberos
+Charon
+Pluto
+Hydra
+Nix
+Styx
+Makemake
+Sept. 18, 2010
+2007 OR
+10
+Nov. 6, 2009
+2007 OR
+10
+Page 76
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:18px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+.ft06{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft07{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+74
+Tracking Evolution in the Asteroid Belt
+Asteroids do not just slam into planets like Jupiter or Earth, they also collide with each other. Astronomers using
+Hubble
+witnessed one such impact in the asteroid belt between Mars and Jupiter, a reservoir of leftover rubble from the construction of our solar system. The
+Hubble
+observations showed a bizarre X-shaped pattern of filamentary structures near the point-
+like core of an object with trailing streamers of dust. This complex structure suggested the small body was the product of a head-on collision between two asteroids traveling five times faster than a rifle bullet. Astronomers have long thought that the asteroid belt is being eroded through collisions, but a crash had never been seen before.
+Another
+Hubble
+observation of the asteroid belt revealed a unique object: an asteroid with six comet-like tails of dust
+radiating from it like spokes on a wheel. Astronomers were surprised by the asteroid’s unusual appearance. Unlike all other known asteroids, which appear simply as tiny points of light, this asteroid resembles a rotating lawn sprinkler. Computer models of the object suggest that the tails could have been formed by a series of dust-ejection events.
+Images of asteroid P/2013 P5 revealed it to be like none other, with multiple dust trails radiating in various directions and changing in appearance with time. Astronomers suspect that the gentle pressure of sunlight made the asteroid spin faster, causing dust from the asteroid’s surface to fall off and drift away to form the tails.
+Sept. 10, 2013
+Sept. 23, 2013
+Page 77
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+75
+An odd, X-shaped debris field trailing dusty streamers is believed to be the remnants of an asteroid collision. Scientists think that a small, fast-moving asteroid blasted into a larger and slower-moving one. The top image is a close-up of the X-shaped debris pattern, while the wider view below shows the long streamers of dust trailing behind it.
+Page 78
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft06{font-size:15px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+.ft07{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft08{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft09{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+76
+Exploring the Birth of Stars
+Hubble
+’s infrared detectors have penetrated gigantic, turbulent clouds of gas and dust where tens of thousands of stars are
+bursting to life.
+Hubble
+views of these nebulas reveal a bizarre landscape sculpted by radiation from young, exceptionally
+bright stars. The observations show that star birth is a violent process, producing intense ultraviolet radiation and shock fronts. The radiation clears out cavities in stellar nursery clouds and erodes material from giant gas pillars that are incubators for fledgling stars.
+Hubble
+has also captured energetic jets of glowing gas from young stars in unprecedented detail. These jets are a byproduct
+of gas swirling into newly forming stars, some of which gets channeled by magnetic fields and shot from the poles of the spinning stars at supersonic speeds in opposing directions. Because of
+Hubble
+’s long operational lifetime, astronomers have
+seen motion and changes in the shapes of these jets over time. Measuring and studying these changes are invaluable in trying to untangle the complicated physical processes that form them and to better understand the environment around newborn stars.
+The glowing, clumpy streams of material shown moving left and right in this
+Hubble
+image are the
+signposts of star birth. Collectively named Herbig-Haro 47, the speedy outflows have been ejected episodically, like salvos from a cannon, from a young star in the center of the image that is hidden by dust. As they move through space, these outflows create bow shocks and ripples as they collide into other clouds of material in the neighborhood of the star.
+This series of observations by
+Hubble
+documents changes in a powerful jet called Herbig-Haro 34 located in the Orion Nebula.
+1994
+1998
+2007
+Page 79
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+77
+By unleashing a torrent of ultraviolet light and strong stellar winds, a giant cluster of about 3,000 young stars called Westerlund 2 sculpts the surrounding gas and dust of its stellar nursery into a celestial landscape of pillars, ridges, and valleys.
+Page 80
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft06{font-size:16px;line-height:25px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+78
+Documenting the Death Throes of Stars
+Hubble
+has revealed unprecedented details in the appearance of Sun-like stars that have entered the death throes of their
+lives. Ground-based images suggested that many of these objects, called planetary nebulas (though they are unrelated to planets), have simple spherical shapes.
+Hubble
+has shown, however, that their shapes are much more varied and complex.
+Some look like pinwheels, others like butterflies, and still others like hourglasses. Such images yield insights into the complex dynamics that accompany a star’s release of its outer gaseous layers before it collapses to form a white dwarf.
+Turning its sights to the tattered remains of a more massive star’s explosive death,
+Hubble
+observations of Supernova 1987A
+revealed three mysterious rings of material encircling the doomed star. The telescope also spied bright spots on the middle ring’s inner region caused by an expanding wave of matter slamming into it from the explosion. Likewise,
+Hubble
+’s view of M1, the
+Crab Nebula, showed details never before seen about this mighty blast and the rapidly spinning pulsar that remains at its core. Meanwhile,
+Hubble
+has analyzed billowing clouds of gas ejected by a pair of massive stars called Eta Carinae, which is prone to
+violent outbursts and could be on the verge of producing a supernova.
+During a dramatic outburst witnessed in 1843, Eta Carinae ejected two expanding, balloon-like clouds of gas, seen in this
+Hubble
+image. Astronomers
+think that one of the two massive stars in the Eta Carinae system could explode as a supernova in the not-too-distant future.
+Page 81
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft03{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+79
+M1, the Crab Nebula, is the remnant of a stellar explosion that was seen in Earth’s skies in the year 1054 AD. The colors in the image were assigned to distinguish various chemical elements, which are now all racing into space to enrich new generations of stars.
+Page 82
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+-->
+80
+This wide-field
+Hubble
+view shows the three rings that encircle the Supernova 1987A blast site, surrounded by red clouds of glowing hydrogen gas.
+Page 83
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft04{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+81
+A shock wave from Supernova 1987A is slamming into a ring of material around the exploded star (seen at the center of the image on the previous page). As it does, various spots in the ring are heated and begin to glow. The nature of the pink feature in the center of the ring is not well understood.
+Sept. 24, 1994
+Hubble
+has revealed the astounding variety and amazing complexity of planetary nebulas.
+Feb. 6, 1998
+Mar. 23, 2001
+Jan. 5, 2003
+Dec. 15, 2004
+Dec. 6, 2006
+Page 84
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft06{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+82
+Seeing Light Echoes
+Hubble
+has captured the best sequence of images of the reverberation of light through space caused by the outburst of a
+star. In January 2002, an unexplained flash of light from a red supergiant star left what looked like an expanding bubble of debris. In fact, the light was simply illuminating clouds that were already in place around the star. Since light travels at a finite speed, the flash took years to reach the most distant clouds and expose them. This phenomenon is called a “light echo,” as it is reminiscent of sound waves echoing down a canyon and “revealing” its walls.
+The red star at the center is an unusual, erupting supergiant called V838 Monocerotis, located approximately 20,000 light-years away. During its outburst, the star’s intrinsic brightness flared to about 600,000 times that of our Sun. The burst may have been triggered by the star swallowing a companion star or planet. The dark gaps around the red star are regions where there are voids in the dust—like empty pockets within Swiss cheese. Light echoes are commonly seen around supernovas, but V838 Mon did not detonate itself; the flash seems to be a unique and little-understood transient phenomenon.
+A mysterious flash from the red giant star V838 Mon illuminated the surrounding area in a light echo.
+May 20, 2002
+December 17, 2002
+September 2, 2002
+February 8, 2004
+October 28, 2002
+October 24, 2004
+Page 85
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:15px;font-family:Helvetica-Condensed;color:#ffffff;}
+-->
+83
+September 9, 2006
+Page 86
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft06{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+84
+Finding Planetary Construction Zones
+Astronomers used
+Hubble
+to confirm that planets form in dust disks around stars. The telescope first resolved protoplanetary
+disks around nearly 200 stars in the bright Orion Nebula. Looking at nearby stars elsewhere in the sky,
+Hubble
+completed
+the largest and most sensitive visible-light imaging survey of dusty debris disks, which were probably created by collisions between leftover objects from planet formation.
+Two particular stars illustrate these findings: TW Hydrae and Beta Pictoris. Using a mask to block the star’s bright light,
+Hubble
+scientists spotted a mysterious gap in a vast protoplanetary disk of gas and dust swirling around the star TW Hydrae. The gap is most likely caused by a growing, unseen planet that is gravitationally sweeping up material and carving out a lane in the disk like a snowplow. It is 1.9 billion miles wide and not yet completely cleared of material. Researchers have also noted changes in the planetary disk surrounding Beta Pictoris. By masking out the star’s light, scientists have studied changes in the orbiting material caused by a massive planet embedded within its dust disk. Astronomers spotted the planet using the European Southern Observatory.
+Here are a few of the many protoplanetary disks that were discovered by
+Hubble
+in the large, majestic Orion Nebula. The top left image shows four stars with
+protoplanetary disks, while the other images show individual disks that appear as silhouettes, illuminated from behind by the glowing gases of the nebula.
+Page 87
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:15px;font-family:Helvetica-Condensed-Black;color:#ffffff;}
+.ft04{font-size:15px;font-family:Helvetica-Condensed-BlackObl;color:#ffffff;}
+.ft05{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+85
+This
+Hubble
+image and illustration show a gap in a protoplanetary disk of dust and gas around the nearby star TW Hydrae. The gap’s presence is
+probably due to the effects of a growing, unseen planet that is gravitationally sweeping up material and carving out a lane in the disk. Astronomers used a masking device within the
+Hubble
+camera to block out the star’s bright light so that the disk’s structure could be seen.
+Hubble
+has provided detailed pictures showing changes in the large, edge-on, gas-and-dust disk encircling the 20-million-year-old star Beta Pictoris.
+1997
+Hubble
+Image
+Illustration
+2012
+Page 88
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:21px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft06{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft07{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+86
+Viewing Galactic Details and Mergers
+When Edwin Hubble discovered that the universe was a vast frontier of innumerable galaxies beyond our Milky Way, he categorized them according to three basic shapes: spiral, elliptical, and irregular. Later, the sharp vision of the space telescope named in his honor revealed unprecedented details in such galaxies. In addition,
+Hubble
+’s images uncovered a
+plethora of oddball, peculiarly shaped galaxies that are more numerous the farther back into time the telescope looks. This is because the expanding universe was smaller long ago, and galaxies were both younger and more likely to interact since they were closer to one another.
+Among this zoo of odd galaxies are “tadpole-like’’ objects and apparently merging systems dubbed “train-wrecks.” For all their violence, galactic collisions take place at a glacial rate by human standards—timescales on the order of several hundred million years.
+Hubble
+’s images, therefore, capture snapshots of galaxies at various stages of interaction. The merging of
+galaxies produces turbulence and tides that can induce new vigorous bursts of star formation within their interstellar gas clouds. These observed mergers form a preview of the coming collision between our own Milky Way and the neighboring Andromeda galaxy 4 billion years from now.
+Left: Nicknamed the “Black Eye galaxy” for its prominent dark dust band, M64 is the product of a collision between two galaxies over a billion years ago. Right: Long streamers of stars and gas appear as tails in this
+Hubble
+image of the gravitationally interacting galaxies NGC 4676, nicknamed “The Mice.”
+Page 89
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft03{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+87
+The “Antennae Galaxies,” NGC 4038 and 4039, are spiral galaxies in the process of merging. The bright knots in the bluish areas are massive pockets of young star clusters, whose formation was sparked by the turbulent interaction of the galaxies.
+Page 90
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+88
+Page 91
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+89
+Astronomers classify galaxy NGC 1300 as a barred spiral because its arms do not swirl into the center but instead are connected to ends of a straight bar of stars that contains the nucleus.
+Page 92
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft01{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+Resembling a broad-brimmed Mexican hat, the Sombrero galaxy (or M104) is a spiral galaxy tipped nearly edge on to our line of sight. A disk filled with bright stars and dark dust encircles the galaxy’s brilliant, bulbous core. Located 28 million light-years from Earth, the Sombrero is one of the most massive and photogenic members of the Virgo cluster of galaxies.
+Page 93
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+Technolgy Transfer
+Page 94
+<!--
+p {margin: 0; padding: 0;}-->
+Page 95
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:36px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft05{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft06{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft07{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft08{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft09{font-size:18px;line-height:28px;font-family:Helvetica-Condensed;color:#ffffff;}
+-->
+93
+Detector technology developed for the
+Hubble Space Telescope
+was used to search for signs of deterioration in the U.S. Constitution,
+the Declaration of Independence, and the Bill of Rights, which are kept on display in the Rotunda of the National Archives Building in  Washington, D.C. (Photo credit: Earl McDonald, National Archives)
+Technology Transfer
+To peer ever deeper into the universe with unprecedented clarity, to detect the light of stars and galaxies no one has seen before,
+Hubble
+has required more and more cutting-edge technologies throughout its career. Scientists and engineers have created
+a wealth of new technology for
+Hubble
+, both while the telescope was being built and since its launch, to help the mission
+continuously push the bounds of exploration and our cosmic understanding.
+Along the way, as astronauts traveled to space five times to upgrade the telescope with these improvements, many of
+Hubble
+’s
+technological advancements found new, innovative uses in an array of earthly applications—from medicine to manufacturing and from wildlife conservation to winning Olympic gold—improving lives here on the ground.
+Monitoring System Helps Preserve Historic Documents
+Although the U.S. Constitution, the Declaration of Independence, and the Bill of Rights are protected in argon-filled glass casings, they can still suffer damage from light, vibration, and humidity, and their ink may fade, flake, or wear off. The Charters of Freedom Monitoring System was designed to scan these documents using detector technology developed for
+Hubble
+. The system
+revealed signs of degradation invisible to the human eye, allowing conservators to act early to halt the deterioration.
+Photo credit: National Archives and Records Administration
+Photo credit: NASA
+Page 96
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+94
+Mirror Technology Improves Computer Chips
+The ultraprecise mirror technology designed to improve
+Hubble
+’s blurred vision after
+launch has led to advancements in semiconductor manufacturing. Techniques used to craft coin-sized corrective mirrors for
+Hubble
+, and later to test optics for two of
+the observatory’s science instruments, have been applied to the manufacturing of optics for microlithography—a method used for printing tiny electronic circuitry, such as in computer chips. The system employs molecular films that absorb and scatter incoming light, enabling superior precision and, consequently, higher productivity and better performance. This technological advance has helped semiconductors become smaller, denser, and faster.
+Photo credit: LLNL and EUV, LLC
+Image Enhancement Aids Arthroscopic Surgery
+Cutting-edge technology used to enhance
+Hubble
+’s images have been helping doctors obtain
+better diagnoses during arthroscopic surgery (the visual examination and treatment of a joint such as the knee or shoulder). Image-processing algorithms from NASA were applied to improve views transmitted from a micro-endoscope, a tool that enables surgeons to see what is happening
+inside the body in real time. The micro-endoscope requires
+only local anesthesia and allows the patient to be
+alert during a procedure. Obtaining clear images
+from a micro-endoscope eliminates the need
+for a more invasive procedure that could add time, cost, and discomfort for the patient.
+Photo credit: Zimmer Biomet
+Page 97
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+95
+Sky Catalog Guides Telescopes on the Ground
+A database of 19 million astronomical objects compiled for
+Hubble
+was incorporated into
+astronomy software that let amateur and professional astronomers quickly plot
+Hubble
+data in an electronic sky map. The software also helped observers operate ground-based telescopes remotely via the Internet, which opened up observing opportunities for both professional astronomers and students. Using this software, the NASA-funded Telescopes in Education program allowed students around the world to observe objects in
+Hubble
+’s
+astronomical database using a 24-inch telescope at the Mount Wilson Observatory in California.
+Image credit: Software Bisque
+CCDs Enable Clearer and Less Painful Biopsies
+To investigate the universe’s mysteries,
+Hubble
+must have highly sensitive charge-coupled devices (CCDs), which convert light into digital images.
+Hubble
+’s advanced
+CCD technology has also helped a digital mammography biopsy system image breast tissue more clearly and efficiently than before. It allows doctors to locate and take detailed X-ray images of suspicious tissue, then guide a needle to retrieve a sample. This procedure requires local rather than general anesthesia, and a needle instead of a scalpel, saving patients time, pain, scarring, radiation exposure, and money.
+Photo credit: Hologic, Inc.
+Page 98
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed;color:#fff87f;}
+.ft06{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+96
+Image Processing Techniques Detect Cancer Earlier
+Astronomical image processing techniques used to sharpen
+Hubble
+’s
+early images have also proven effective in identifying microcalcifications in mammograms (such as those seen in the accompanying image), which are indicative of breast cancer. When applied to mammograms, software techniques developed to increase the dynamic range and spatial resolution of
+Hubble
+’s
+initially blurry images allow doctors to spot smaller calcifications than they could before, leading to earlier detection and treatment. The sooner the cancer is found and treated, the better the chances are that a patient will make a full recovery and preserve her quality of life.
+Photo credit: J. Wang et al.,
+BioMedical Engineering
+OnLine
+Star-Mapping Algorithms Track Endangered Animals
+To track endangered whale sharks, marine biologists photograph patterns of white spots on a shark’s skin, which are as unique to whale sharks as fingerprints are to humans. But examining and matching the photographs by eye is tedious and time consuming. So a software programmer teamed up with a NASA astronomer to modify a star-matching algorithm developed for
+Hubble
+and
+used it to recognize the spots on individual whale sharks. This has helped observers across the globe catalog over 43,000 encounters with more than 8,800 different whale sharks over two decades. Researchers have adapted this algorithm to track other types of endangered sharks and giant sea bass that also have distinctive spot patterns on their skin.
+Photo credit: Amber Cook
+Page 99
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:18px;line-height:28px;font-family:Helvetica-Condensed;color:#ffffff;}
+-->
+97
+Software Improves Efficiency in Hospitals and Manufacturing
+Scheduling software developed to manage
+Hubble
+’s sequence of
+observations, which involves time-consuming and often-conflicting tasks, was adapted to create software that optimizes ever-changing hospital schedules. The software automates rescheduling requests by allocating resources in real time for medical imaging procedures, increasing procedure volume along with reducing backlogs and staff overtime. The software can also display live updates on monitors in high-traffic areas, allowing staff to track patient status and procedures quickly. The semiconductor industry has also modified
+Hubble
+’s
+scheduling software to handle changes in customer demand and to streamline production.
+Photo credit: Allocade, Inc.
+Data Processing Software Applied to Human Genome
+Software originally designed to process
+Hubble
+’s
+vast troves of astronomical data was adapted by a private company to manage the bioinformatics data produced by its human genome sequencing projects. The Operational Pipeline Unified Systems (OPUS) software was created to transform
+Hubble
+’s
+raw data into files that astronomers around the world could use. The genomic company modified the software to similarly process its bioinformatics data in order to make it suitable for researchers, reducing the time and resources needed to develop their own software in-house.
+Image credit: Nogas1974, CC BY-SA 4.0
+Page 100
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+98
+Laser Optics Tools Scan Packages and Groceries
+Before the first
+Hubble
+servicing mission, a Massachusetts
+company built a laser tool to verify that the corrective optics being sent to
+Hubble
+would fix the telescope’s blurry vision. This
+laser tool is now being used by all major shipping companies to quickly and accurately create 3D images of packages, determining a package’s dimensions without having to measure the item manually. The tool was also adopted by grocery stores to develop laser scanners that better and more quickly identify products, assisting customers in self-checkout aisles.
+Photo credit: Northrop Grumman AOA Xinetics
+Filters Match Paint Colors and Improve Optics
+To unlock new cosmic secrets,
+Hubble
+’s cameras required sophisticated filters that pushed the manufacturing process for filters
+beyond what had been achieved or even attempted before. One challenging requirement to put four filters on a single
+Hubble
+optic was met by applying multiple color coatings on a single substrate. This solution was later used to develop a paint-matching device for hardware stores. Other requirements for
+Hubble
+’s filters—such as filtering for very narrow wavelength ranges, covering
+the entire optic, and functioning at very low temperatures—led to advances later used in high-end, precision optics for consumer electronics such as cell phones, laptops, and tablets.
+Photo credit: Brett Jordan
+Page 101
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:18px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft05{font-size:16px;line-height:26px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+99
+Polishing Tool Helps Win Olympic Gold
+At the Salt Lake City Winter Olympics in 2002, U.S. speed skater Chris Witty won gold and set a new world record in the 1,000-meter race. The blades on Witty’s skates had been polished with a new tool created, with help from NASA, to reduce friction and provide a smoother glide. The tool’s development was inspired by mirror-polishing techniques used to produce high-quality optics for
+Hubble
+and other NASA observatories. Speed skates polished with this instrument showed a distinct improvement over
+conventionally treated skates.
+Photo credit: Jim Lyons
+Photo credit: Nathan Blow Photography / Crawford Family
+U.S. Olympic Archives, USOC
+CCDs Help Decipher Ancient Manuscripts
+Hubble
+’s CCD technology has been used to help read deteriorated sections of the 2,000-year-old Dead Sea Scrolls. To the naked
+eye, some of the black ink on the scroll fragments could not be distinguished from the age-darkened parchment. However, CCDs equipped with a tunable filter could image the fragments in longer, infrared wavelengths that increased the contrast between the ink and the parchment. Computer image-enhancement techniques revealed previously illegible text, including a string of Hebrew letters that translate into “He wrote the words of Noah.”
+640 nm
+720 nm
+680 nm
+970 nm
+Enhanced image
+Photo Credit: NASA
+Page 102
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft01{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+The massive, young stellar grouping called R136 is only a few million years old and resides in the 30 Doradus nebula of the Large Magellanic Cloud, a satellite galaxy of our Milky Way located 170,000 light-years away. There is no known star-forming region in our galaxy as large or as prolific. Many of the blue stars are also among the most massive stars known—several of them over 100 times more massive than the Sun. The brilliant stars are carving deep cavities in the surrounding material by unleashing a torrent of ultraviolet light and hurricane-force winds of charged particles.
+Page 103
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+Cultural Impact
+Page 104
+<!--
+p {margin: 0; padding: 0;}-->
+Page 105
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:36px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft07{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft08{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+Dr. Adam G. Riess received the Nobel Prize in Physics from His Majesty King Carl XVI Gustaf of Sweden at the Nobel Prize Award Ceremony in Stockholm on December 10, 2011. Dr. Riess and his colleagues received the award for their leadership in discovering that the expansion rate of the universe was accelerating, a phenomenon attributed to a mysterious, unexplained “dark energy.” Dr. Riess’ team used
+Hubble
+data
+to make the discovery. (Photo credit: © The Nobel Foundation/Frida Westholm)
+103
+Cultural Impact
+Hubble
+’s discoveries and memorable photos have reinvigorated the public’s interest in astronomy and have made the universe
+more accessible to all. The best photos have become cultural icons that appear regularly on book covers, on albums, and in popular science-fiction movies.
+Hubble
+images have even been incorporated into ecclesiastical stained-glass windows.
+Hubble
+has ushered in a new age of science exploration. Science literacy has risen 10 percentage points since astronauts
+repaired
+Hubble
+in 1993. Though this cannot be attributed to
+Hubble
+exclusively, the accomplishments of the space telescope
+have certainly contributed to elevating public awareness of scientific research.
+Coincident with
+Hubble
+’s repair in the early 1990s was the rapid growth of the internet and high-speed data transmission into
+households. The immediacy of the internet made
+Hubble
+images easily accessible to a broad range of society. This allowed
+teachers, parents, and children alike to track the preparation and execution of the
+Hubble
+servicing missions and become familiar with the telescope, its instrumentation, and its accomplishments.
+With this awareness has come inspiration. School children write, color, and speak about the beauty and mystery of the universe as revealed by
+Hubble
+. The telescope became so beloved that when its last servicing
+mission was recommended for cancellation, school children wrote letters to Congress and collected money to “save
+Hubble
+.”
+The Nobel medal bears the image of Alfred Nobel (1833–1896), the Swedish scientist and inventor whose large financial gift established the coveted prizes. (Image credit: © ® The Nobel Foundation)
+Page 106
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft05{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft06{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+104
+The
+Hubble Space Telescope
+also permeates educational material. If one compares an astronomy textbook from the late
+1980s to a textbook published today, the differences are extraordinary. Nearly every chapter of contemporary textbooks contains
+Hubble
+pictures that are seminal to the topics at hand: supermassive black holes, stellar evolution, planet impacts,
+cosmology, and galaxy classification, to name a few. The same is true for online references such as Wikipedia that now are replete with
+Hubble
+photos illustrating astronomical discoveries.
+Edwin Hubble, for whom the
+Hubble Space Telescope
+is named, was one of the leading astronomers of the twentieth century. His discovery in the
+1920s that countless galaxies exist beyond our own Milky Way galaxy revolutionized our understanding of the universe. Perhaps Hubble’s most notable contribution, however, was his observation that the farther apart galaxies are from each other, the faster they move away from one another. Based on this discovery, Hubble concluded that the universe expands uniformly. Several scientists had also posed this idea based on Einstein’s general theory of relativity, but Hubble’s data, published in 1929, helped convince the scientific community. In 2000, the United States Postal Service commemorated Hubble and his namesake — the
+Hubble Space Telescope
+— with a commemorative issue of stamps.
+Page 107
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+105
+Hubble
+’s observations inspire both art and science around the globe. Here at New York City’s American Museum of Natural History, spectra of distant
+galaxies taken by
+Hubble
+were projected on the Hayden Sphere within the Rose Center for Earth and Space. Similar outdoor exhibits appeared in
+Baltimore, Maryland, and Venice, Italy. (Photo credit: © 2011 AMNH/D. Finnin)
+Page 108
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft05{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+106
+During the years of
+Hubble
+’s operation, there have been other major government-funded science activities. But the
+Hubble
+project has managed to push beyond the important but narrow mission of academic inquiry to captivate the
+world in the adventure of discovery with its overpowering images that both challenge and inspire.
+Hubble
+has essentially
+become the “people’s telescope” and now carries the public as co-investigators as it continues unveiling the mysteries and wonders of the universe.
+Queen Elizabeth II and Prince Philip, the Duke of Edinburgh, receive a framed photograph of the
+Hubble Space Telescope
+from Maryland Senator Barbara
+Milkulski and Representative Steny Hoyer during a visit to the Goddard Space Flight Center in May 2007.
+Page 109
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-Light;color:#fff87f;}
+.ft03{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+.ft04{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#fff87f;}
+-->
+107
+In October 2010, the Istituto Veneto di Scienze, Lettere ed Arti in Venice, Italy featured an exhibition entitled The Hubble Space Telescope: Twenty Years at the Frontier of Science. Displayed in the beautiful and historic Palazzo Loredan, the exhibits included many breathtaking
+Hubble
+photos
+taken over the years, as well as artifacts from the telescope and tools used by astronauts in the missions to repair and upgrade it. (Photo credit: Bob Fosbury, ESA/
+Hubble
+)
+Among its many honors,
+Hubble
+and its images have been featured on NOVA , the most watched documentary series on U.S. public television (Photo
+credit: © WGBH Educational Foundation); promoted in a popular book published by the National Geographic Society, similar to other books that document
+Hubble
+’s history and remarkable images (Photo credit: © 2008 National Geographic Society); depicted as a Google Doodle (Photo credit:
+Google, Inc.); and graced the cover of National Geographic  (Photo credit: © National Geographic Society).
+Page 110
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#231f20;}
+.ft01{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#231f20;}
+.ft02{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#231f20;}
+-->
+This detailed image of the center of the Lagoon Nebula (Messier 8) reveals the intricate structures formed when powerful radiation from young stars interacts with the hydrogen cloud from which they formed. In this color-mapped image, light from glowing hydrogen is colored red; that from glowing ionized nitrogen, green. Background light captured through a yellow filter is colored blue. The bluish, bright area at the upper left of the image is scattered light from a bright star just outside the field of view.
+Page 111
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+Acknowledgments
+Page 112
+<!--
+p {margin: 0; padding: 0;}-->
+Page 113
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:36px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:36px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft06{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+111
+While astronaut Jeffrey Hoffman worked in the payload bay, astronaut F. Story Musgrave—anchored on the Space Shuttle
+Endeavour
+’s robotic
+arm—prepared to be elevated to the top of
+Hubble
+during Servicing Mission 1 (December 1993). They represent just two of the thousands of
+dedicated professionals from many countries that have made
+Hubble
+one of the most productive scientific instruments in history.
+Hubble
+Credit
+Credit for the success of the
+Hubble Space Telescope
+rightly belongs to an entire “universe” of people and organizations.
+First and foremost are the citizens of the United States and Europe who have steadfastly supported
+Hubble
+over the years with
+their tax dollars and their enthusiasm. As a result, thousands of astronomers from around the world have successfully used the observatory to probe the deepest mysteries of the universe and have shared their discoveries through both professional publications and public outreach. Educators and students worldwide have recognized
+Hubble
+as an important reason for
+their knowledge, excitement, and motivation to excel in the fields of science and engineering.
+A small cadre of astronauts from NASA and the European Space Agency (ESA) have taken significant personal risk to service
+Hubble
+, maintaining and upgrading the observatory to keep it at the forefront of astronomical research. Support from
+dedicated personnel at the Johnson Space Center and Kennedy Space Center made these servicing missions successful. The Science Mission Directorate at NASA Headquarters and the
+Hubble Space Telescope
+Project Office at NASA’s Goddard
+Space Flight Center have led the
+Hubble
+program over the years, with major contributions to the observatory—both
+hardware and people—provided by ESA.
+Hubble
+’s highly successful science program has been organized and guided by the Space Telescope Science Institute,
+operated by the Association of Universities for Research in Astronomy under contract with NASA. Finally, many dedicated NASA employees and dozens of first-class contractor organizations throughout the global aerospace industry have designed, built, and successfully operated
+Hubble
+and its scientific instruments over a period spanning decades. All these people and
+organizations should take pride in the achievements described in this publication. Their unified commitment to excellence ultimately forms the basis of
+Hubble
+’s success.
+Page 114
+<!--
+p {margin: 0; padding: 0;}-->
+Page 115
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft01{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft02{font-size:36px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft03{font-size:16px;font-family:Helvetica-Condensed;color:#ffffff;}
+.ft04{font-size:16px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft05{font-size:16px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft06{font-size:13px;line-height:17px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft07{font-size:16px;line-height:28px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+113
+At a relatively close 1,500 light-years away, the Orion Nebula is a magnificent cosmic laboratory for investigating how stars are born. Containing a billion pixels, this
+Hubble
+image revealed details never seen before. Dense clumps of dust and gas are the likely birthplaces
+of fledgling stars. Massive, hot stars already born within the nebula produce intense radiation and stellar winds that sculpt cavities, ridges, and arcs in the surrounding gas. Dark, dusty disks around some young stars document the earliest stages of developing solar systems.
+Publication Credit
+For additional information, contact:
+Claire Saravia NASA’s Goddard Space Flight CenterOffice of Communications Greenbelt, MD 20771 301-286-1940
+Space Telescope Science Institute 3700 San Martin DriveBaltimore, MD 21218-2410410-338-4444 (general info)410-338-4514 (technical info)
+nasa.gov/hubblehubblesite.org
+For this publication, the team at the Goddard Space Flight Center included:Kevin Hartnett (Editor in Chief), James Jeletic (Deputy/Photo Editor), Vanessa Thomas (Writer), Michael Marosy (Lead Designer), Judith Clark (Copy Editor), Jason Roman (Proofreader), Pat Izzo (Photographer), Ken Carpenter (Science Advisor), Malcolm Niedner (Science Advisor), and Jennifer Wiseman (Science Advisor).
+The team at the Space Telescope Science Institute included: Ann Jenkins (Writer), Ann Feild (Graphics Designer), Ray Villard, Zolt Levay, and Donna Weaver.
+In reference lists, please cite this document as:
+National Aeronautics and Space Administration.
+Hubble: An Overview of the Space Telescope
+. Edited by K. Hartnett and
+J. Jeletic. NASA’s Goddard Space Flight Center, Greenbelt, Maryland: NASA Pub. 2018-05-206-GSFC, 2018. 114 pp.For the most recent information, follow the mission on social media @NASAHubble.
+Page 116
+<!--
+p {margin: 0; padding: 0;}-->
+Page 117
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:90px;font-family:Helvetica-ExtraCompressed;color:#ffffff;}
+.ft01{font-size:27px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+.ft02{font-size:13px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+.ft03{font-size:13px;line-height:18px;font-family:Helvetica-Condensed-LightObl;color:#ffffff;}
+-->
+Hubble
+An Overview of the
+Space Telescope
+The cluster of galaxies known as Abell 370, found in the constellation Cetus, contains several hundred galaxies bound together by the mutual pull of gravity. Scattered among the galaxies are mysterious-looking arcs of light, which are actually distorted images of galaxies located behind the cluster. The light from these remote galaxies is being bent and magnified by the powerful gravity of Abell 370 in an effect called gravitational lensing. One bright, extended feature near the bottom, nicknamed “the Dragon,” is probably several duplicated images of a single background spiral galaxy stretched into an arc.
+Page 118
+<!--
+p {margin: 0; padding: 0;}	.ft00{font-size:13px;font-family:Helvetica-Condensed;color:#ffffff;-moz-transform: matrix(         0,          1,         -1,          0, 0, 0);-webkit-transform: matrix(         0,          1,         -1,          0, 0, 0);-o-transform: matrix(         0,          1,         -1,          0, 0, 0);-ms-transform: matrix(         0,          1,         -1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+.ft01{font-size:12px;font-family:Helvetica-Condensed-Light;color:#ffffff;}
+-->
+HUBBLE
+: An Over
+view of the Space T
+elescope
+NP-2018-05-206-GSFC (rev. 1/2021)
